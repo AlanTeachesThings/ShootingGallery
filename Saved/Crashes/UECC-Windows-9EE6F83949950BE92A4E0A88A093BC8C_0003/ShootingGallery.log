@@ -1,0 +1,1487 @@
+﻿Log file open, 11/23/23 20:16:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=22492)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ShootingGallery
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\aja7\Documents\GitHub\ShootingGallery\ShootingGallery.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.3570] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="e3eb57d54eb8104fb56b159b037a13f8"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 1.288560
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-9EE6F83949950BE92A4E0A88A093BC8C
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.11 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.12 seconds
+LogConfig: Display: Loading IOS ini files took 0.12 seconds
+LogConfig: Display: Loading Android ini files took 0.12 seconds
+LogConfig: Display: Loading Mac ini files took 0.12 seconds
+LogConfig: Display: Loading Windows ini files took 0.16 seconds
+LogConfig: Display: Loading TVOS ini files took 0.16 seconds
+LogConfig: Display: Loading Unix ini files took 0.16 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.19 seconds
+LogConfig: Display: Loading Linux ini files took 0.19 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.3570] (), CPU: 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.11.23-20.16.32:980][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.11.23-20.16.32:980][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.11.23-20.16.32:980][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.11.23-20.16.32:980][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.11.23-20.16.32:980][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.11.23-20.16.32:980][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.11.23-20.16.32:980][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.11.23-20.16.32:980][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.11.23-20.16.32:980][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.11.23-20.16.32:980][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.11.23-20.16.32:980][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.11.23-20.16.32:980][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.11.23-20.16.32:980][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.11.23-20.16.32:980][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.11.23-20.16.32:980][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.11.23-20.16.32:980][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.11.23-20.16.32:980][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.11.23-20.16.32:980][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.11.23-20.16.32:980][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.11.23-20.16.32:980][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.11.23-20.16.32:980][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.11.23-20.16.32:980][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.11.23-20.16.32:980][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.11.23-20.16.32:980][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.11.23-20.16.32:980][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.11.23-20.16.32:980][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.11.23-20.16.32:980][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.11.23-20.16.32:980][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.11.23-20.16.32:980][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.11.23-20.16.32:980][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.11.23-20.16.32:980][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.11.23-20.16.32:980][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.11.23-20.16.32:981][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.11.23-20.16.32:981][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.11.23-20.16.32:981][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.11.23-20.16.32:981][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.11.23-20.16.32:981][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.11.23-20.16.32:981][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.11.23-20.16.32:981][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.11.23-20.16.32:981][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.11.23-20.16.32:981][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.11.23-20.16.32:981][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.11.23-20.16.32:981][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.11.23-20.16.32:981][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.11.23-20.16.32:981][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.11.23-20.16.32:981][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.11.23-20.16.32:981][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.11.23-20.16.32:981][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.11.23-20.16.32:981][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.11.23-20.16.32:981][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.11.23-20.16.32:981][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.11.23-20.16.32:981][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.11.23-20.16.32:981][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.11.23-20.16.32:981][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.11.23-20.16.32:981][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.11.23-20.16.32:981][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.11.23-20.16.32:981][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.11.23-20.16.32:990][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.11.23-20.16.32:990][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.11.23-20.16.32:991][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.11.23-20.16.32:991][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.11.23-20.16.32:991][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.11.23-20.16.32:991][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.11.23-20.16.32:991][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.11.23-20.16.32:991][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.11.23-20.16.32:991][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.11.23-20.16.32:991][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.11.23-20.16.32:991][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.11.23-20.16.33:163][  0]LogD3D12RHI: Aftermath initialized
+[2023.11.23-20.16.33:163][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.11.23-20.16.33:759][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3080 Laptop GPU (Max supported Feature Level 12_1, shader model 6.6)
+[2023.11.23-20.16.33:759][  0]LogD3D12RHI: Adapter has 8031MB of dedicated video memory, 0MB of dedicated system memory, and 16234MB of shared system memory, 1 output[s]
+[2023.11.23-20.16.33:853][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2023.11.23-20.16.33:853][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 16234MB of shared system memory, 0 output[s]
+[2023.11.23-20.16.33:867][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.11.23-20.16.33:867][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16234MB of shared system memory, 0 output[s]
+[2023.11.23-20.16.33:867][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.11.23-20.16.33:867][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.11.23-20.16.33:867][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.11.23-20.16.33:867][  0]LogHAL: Display: Platform has ~ 32 GB [34046742528 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.11.23-20.16.33:868][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.11.23-20.16.33:868][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.11.23-20.16.33:868][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.11.23-20.16.33:870][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.11.23-20.16.33:870][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/aja7/Documents/GitHub/ShootingGallery/Saved/Config/WindowsEditor/Editor.ini]
+[2023.11.23-20.16.33:870][  0]LogInit: Computer: LAP-N0132097
+[2023.11.23-20.16.33:870][  0]LogInit: User: aja7
+[2023.11.23-20.16.33:870][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.11.23-20.16.33:870][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.11.23-20.16.33:870][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2023.11.23-20.16.33:870][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.11.23-20.16.33:870][  0]LogMemory: Process Physical Memory: 293.78 MB used, 296.70 MB peak
+[2023.11.23-20.16.33:870][  0]LogMemory: Process Virtual Memory: 259.04 MB used, 259.04 MB peak
+[2023.11.23-20.16.33:870][  0]LogMemory: Physical Memory: 12290.30 MB used,  20179.20 MB free, 32469.50 MB total
+[2023.11.23-20.16.33:870][  0]LogMemory: Virtual Memory: 13755.15 MB used,  23578.36 MB free, 37333.50 MB total
+[2023.11.23-20.16.33:870][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.11.23-20.16.33:895][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.11.23-20.16.34:207][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.11.23-20.16.34:215][  0]LogInit: Using OS detected language (en-US).
+[2023.11.23-20.16.34:215][  0]LogInit: Using OS detected locale (en-GB).
+[2023.11.23-20.16.34:267][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.11.23-20.16.34:511][  0]LogInit: Setting process to per monitor DPI aware
+[2023.11.23-20.16.34:569][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.11.23-20.16.34:569][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2023.11.23-20.16.34:569][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.11.23-20.16.34:569][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - Touch Input Correction (TSF IME).
+[2023.11.23-20.16.34:569][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2023.11.23-20.16.34:673][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.11.23-20.16.34:673][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.11.23-20.16.35:342][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.11.23-20.16.35:352][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.11.23-20.16.35:352][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.11.23-20.16.35:501][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.11.23-20.16.35:501][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.11.23-20.16.35:501][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.11.23-20.16.35:501][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.11.23-20.16.35:501][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.11.23-20.16.35:501][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.11.23-20.16.35:501][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.11.23-20.16.35:501][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.11.23-20.16.35:501][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.11.23-20.16.35:501][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.11.23-20.16.35:501][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.11.23-20.16.35:501][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.11.23-20.16.35:501][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.11.23-20.16.35:501][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.11.23-20.16.35:501][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.11.23-20.16.35:501][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.11.23-20.16.35:555][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.11.23-20.16.35:560][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.11.23-20.16.35:571][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.11.23-20.16.35:605][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.11.23-20.16.35:605][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.11.23-20.16.35:799][  0]LogD3D12RHI:     GPU DeviceId: 0x249c (for the marketing name, search the web for "GPU Device Id")
+[2023.11.23-20.16.35:799][  0]LogWindows: Attached monitors:
+[2023.11.23-20.16.35:800][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1030), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.11.23-20.16.35:800][  0]LogWindows: Found 1 attached monitors.
+[2023.11.23-20.16.35:800][  0]LogWindows: EnumDisplayDevices:
+[2023.11.23-20.16.35:801][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.11.23-20.16.35:804][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.11.23-20.16.35:807][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.11.23-20.16.35:810][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3080 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.11.23-20.16.35:813][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3080 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.11.23-20.16.35:816][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3080 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.11.23-20.16.35:820][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3080 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.11.23-20.16.35:822][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.11.23-20.16.35:822][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3080 Laptop GPU
+[2023.11.23-20.16.35:822][  0]LogD3D12RHI:   Driver Version: 528.49 (internal:31.0.15.2849, unified:528.49)
+[2023.11.23-20.16.35:822][  0]LogD3D12RHI:      Driver Date: 2-2-2023
+[2023.11.23-20.16.35:822][  0]LogRHI: Texture pool is 4575 MB (70% of 6536 MB)
+[2023.11.23-20.16.35:822][  0]LogD3D12RHI: Async texture creation enabled
+[2023.11.23-20.16.35:822][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.11.23-20.16.35:841][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.11.23-20.16.35:967][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/aja7/Documents/GitHub/ShootingGallery/ShootingGallery.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/aja7/Documents/GitHub/ShootingGallery/Intermediate/TurnkeyReport_0.log" -log="C:/Users/aja7/Documents/GitHub/ShootingGallery/Intermediate/TurnkeyLog_0.log" -project="C:/Users/aja7/Documents/GitHub/ShootingGallery/ShootingGallery.uproject"  -platform=all'
+[2023.11.23-20.16.35:967][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/aja7/Documents/GitHub/ShootingGallery/ShootingGallery.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/aja7/Documents/GitHub/ShootingGallery/Intermediate/TurnkeyReport_0.log" -log="C:/Users/aja7/Documents/GitHub/ShootingGallery/Intermediate/TurnkeyLog_0.log" -project="C:/Users/aja7/Documents/GitHub/ShootingGallery/ShootingGallery.uproject"  -platform=all" ]
+[2023.11.23-20.16.36:390][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.11.23-20.16.36:559][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.11.23-20.16.36:559][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.11.23-20.16.36:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.11.23-20.16.36:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.11.23-20.16.36:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.11.23-20.16.36:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.11.23-20.16.36:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.11.23-20.16.36:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.11.23-20.16.36:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.11.23-20.16.36:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.11.23-20.16.36:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.11.23-20.16.36:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.11.23-20.16.36:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.11.23-20.16.36:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.11.23-20.16.36:893][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.11.23-20.16.36:893][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.11.23-20.16.36:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.11.23-20.16.36:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.11.23-20.16.36:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.11.23-20.16.36:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.11.23-20.16.37:025][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.11.23-20.16.37:025][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.11.23-20.16.37:025][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.11.23-20.16.37:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.11.23-20.16.37:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.11.23-20.16.37:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.11.23-20.16.37:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.11.23-20.16.37:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.11.23-20.16.37:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.11.23-20.16.37:192][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.11.23-20.16.37:430][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.11.23-20.16.37:481][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.11.23-20.16.37:481][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.11.23-20.16.37:481][  0]LogTargetPlatformManager:   ADPCM
+[2023.11.23-20.16.37:481][  0]LogTargetPlatformManager:   PCM
+[2023.11.23-20.16.37:532][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.11.23-20.16.37:532][  0]LogTargetPlatformManager:   BINKA
+[2023.11.23-20.16.37:532][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.11.23-20.16.37:532][  0]LogTargetPlatformManager:   OGG
+[2023.11.23-20.16.37:532][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.11.23-20.16.37:532][  0]LogTargetPlatformManager:   OPUS
+[2023.11.23-20.16.38:012][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.11.23-20.16.38:121][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.11.23-20.16.38:121][  0]LogTargetPlatformManager:   SF_METAL
+[2023.11.23-20.16.38:121][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.11.23-20.16.38:121][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.11.23-20.16.38:121][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.11.23-20.16.38:121][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.11.23-20.16.38:121][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.11.23-20.16.38:121][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.11.23-20.16.38:121][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.11.23-20.16.38:121][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.11.23-20.16.38:121][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.11.23-20.16.38:121][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.11.23-20.16.38:121][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.11.23-20.16.38:121][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.11.23-20.16.38:121][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.11.23-20.16.38:121][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.11.23-20.16.38:186][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.11.23-20.16.38:186][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.11.23-20.16.38:186][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.11.23-20.16.38:186][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.11.23-20.16.38:186][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.11.23-20.16.38:186][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.11.23-20.16.38:186][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.11.23-20.16.38:187][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.11.23-20.16.38:187][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.11.23-20.16.38:188][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.11.23-20.16.38:189][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.11.23-20.16.38:190][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.11.23-20.16.38:193][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.11.23-20.16.38:193][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.11.23-20.16.38:193][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.11.23-20.16.38:193][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.11.23-20.16.38:218][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.11.23-20.16.38:218][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.11.23-20.16.38:218][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.11.23-20.16.38:244][  0]LogDerivedDataCache: Speed tests for C:/Users/aja7/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2023.11.23-20.16.38:244][  0]LogDerivedDataCache: Display: Performance to C:/Users/aja7/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.55ms. RandomReadSpeed=105.50MBs, RandomWriteSpeed=102.52MBs. Assigned SpeedClass 'Local'
+[2023.11.23-20.16.38:245][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aja7/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.11.23-20.16.38:245][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.11.23-20.16.38:245][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.11.23-20.16.38:259][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.11.23-20.16.38:259][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.11.23-20.16.38:259][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Intermediate/Shaders/WorkingDirectory/18468/).
+[2023.11.23-20.16.38:260][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aja7/AppData/Local/Temp/UnrealShaderWorkingDir/54EE154E48FE50D629F291B973165D1F/'.
+[2023.11.23-20.16.38:261][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.11.23-20.16.38:261][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2023.11.23-20.16.40:904][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.11.23-20.16.40:904][  0]LogSlate: Using FreeType 2.10.0
+[2023.11.23-20.16.40:909][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.11.23-20.16.41:051][  0]LogAssetRegistry: FAssetRegistry took 0.0259 seconds to start up
+[2023.11.23-20.16.41:064][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.11.23-20.16.41:298][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.11.23-20.16.41:299][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.11.23-20.16.42:255][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.11.23-20.16.42:255][  0]LogDeviceProfileManager: Active device profile: [00000A318FDA3800][00000A31857A0000 50] WindowsEditor
+[2023.11.23-20.16.42:255][  0]LogDeviceProfileManager: Profiles: [00000A318FDA39C0][00000A31857A5000 50] Windows, [00000A318FDA3800][00000A31857A0000 50] WindowsEditor, [00000A318FDA3480][00000A3185727800 50] WindowsServer, [00000A318FDA1C00][00000A31856EC800 50] WindowsClient, [00000A318FDA0FC0][00000A31857A2800 50] IOS, [00000A318FDA08C0][00000A31779FA000 50] iPadAir2, [00000A318FDA4EC0][00000A318FDE2800 50] IPadPro, [00000A318FDA5240][00000A318FDE0000 50] iPadAir3, [00000A318FDA47C0][00000A318FDE7800 50] iPadAir4, [00000A318FDA0A80][00000A318FDEA000 50] iPadMini4, [00000A318FDA1500][00000A318FDEC800 50] iPadMini5, [00000A318FDA5400][00000A318907C800 50] iPadMini6, [00000A318FDA7FC0][00000A318FDF5000 50] iPhone6S, [00000A318FDA8340][00000A318FDF2800 50] iPhone7, [00000A318FDA86C0][00000A318FDF0000 50] iPodTouch7, [00000A318FDA01C0][00000A318FDFA000 50] iPhone6SPlus, [00000A318FDA7C40][00000A318FDFC800 50] iPhone7Plus, [00000A318FDA1DC0][00000A318FDE5000 50] iPhoneSE, [00000A318FDA4600][00000A318FE00000 50] iPhone8, [00000A318FDA78C0][00000A318FE05000 50] iPhone8Plus, [00000A318FDA2840][00000A318FE07800 50] iPhoneX, [00000A318FDA2BC0][00000A318FE0A000 50] iPhoneXS, [00000A318FDA7540][00000A318FE0C800 50] iPhoneXSMax, [00000A318FDA2F40][00000A318FDF7800 50] iPhoneXR, [00000A318FDA32C0][00000A318FE10000 50] iPhone11, [00000A318FDA6580][00000A318FE15000 50] iPhone11Pro, [00000A318FDA4980][00000A318FE17800 50] iPhone11ProMax, [00000A318FDA4440][00000A318FE1A000 50] iPhoneSE2, [00000A318FDA3F00][00000A318FE1C800 50] iPhone12Mini, [00000A318FDA2A00][00000A318FE02800 50] iPhone12, [00000A318FDA0000][00000A318FE20000 50] iPhone12Pro, [00000A318FDA2D80][00000A318FE25000 50] iPhone12ProMax, [00000A318FDA63C0][00000A318FE27800 50] iPhone13Mini, [00000A318FDA0E00][00000A318FE2A000 50] iPhone13, [00000A318FDA7380][00000A318FE2C800 50] iPhone13Pro, [00000A318FDA5B00][00000A318FE12800 50] iPhone13ProMax, [00000A318FDA71C0][00000A318FE30000 50] iPadPro105, [00000A318FDA1340][00000A318FE35000 50] iPadPro129, [00000A318FDA8180][00000A318FE37800 50] iPadPro97, [00000A318FDA2140][00000A318FE3A000 50] iPadPro2_129, [00000A318FDA7700][00000A318FE3C800 50] iPad5, [00000A318FDA0380][00000A318FE22800 50] iPad6, [00000A318FDA1F80][00000A318FE40000 50] iPad7, [00000A318FDA6200][00000A318FE45000 50] iPad8, [00000A318FDA8C00][00000A318FE47800 50] iPad9, [00000A318FDA4D00][00000A318FE4A000 50] iPadPro11, [00000A318FDA16C0][00000A318FE4C800 50] iPadPro2_11, [00000A318FDA6C80][00000A318FE32800 50] iPadPro3_11, [00000A318FDA4280][00000A318FE50000 50] iPadPro3_129, [00000A318FDA6AC0][00000A318FE55000 50] iPadPro4_129, [00000A318FDA6E40][00000A318FE57800 50] iPadPro5_129, [00000A318FDA5940][00000A318FE5A000 50] AppleTV, [00000A318FDA8880][00000A318FE5C800 50] AppleTV4K, [00000A318FDA2300][00000A318FE42800 50] TVOS, [00000A318FDAA2C0][00000A318FE72800 50] Mac, [00000A318FDAA640][00000A318FE70000 50] MacEditor, [00000A318FDA7A80][00000A318FE77800 50] MacClient, [00000A318FDA0C40][00000A318FE7A000 50] MacServer, [00000A318FDA55C0][00000A318FE52800 50] Linux, [00000A318FDA1A40][00000A318FE7C800 50] LinuxEditor, [00000A318FDA8A40][00000A318FE80000 50] LinuxArm64Editor, [00000A318FDA9680][00000A318FE85000 50] LinuxArm64, [00000A318FDAA800][00000A318FE87800 50] LinuxClient, [00000A318FDA6040][00000A318FE8A000 50] LinuxArm64Client, [00000A318FDA7E00][00000A318FE8C800 50] LinuxServer, [00000A318FDA9140][00000A318FE75000 50] LinuxArm64Server, [00000A318FDA3640][00000A318FE90000 50] Android, [00000A318FDA9A00][00000A318FE95000 50] Android_Preview_OpenGL, [00000A318FDA1880][00000A318FE97800 50] Android_Preview_Vulkan, [00000A318FDA5780][00000A318FE9A000 50] Android_Low, [00000A318FDAA9C0][00000A318FE9C800 50] Android_Mid, [00000A318FDA0700][00000A318FE82800 50] Android_High, [00000A318FDA24C0][00000A318FEA0000 50] Android_Default, [00000A318FDA9F40][00000A318FEA5000 50] Android_Adreno4xx, [00000A318FDAAB80][00000A318FEA7800 50] Android_Adreno5xx_Low, [00000A318FDA6740][00000A318FEAA000 50] Android_Adreno5xx, [00000A318FDA4B40][00000A318FEAC800 50] Android_Adreno6xx, [00000A318FDA3100][00000A318FE92800 50] Android_Adreno6xx_Vulkan, [00000A318FDA94C0][00000A318FEB0000 50] Android_Adreno7xx, [00000A318FDA7000][00000A318FEB5000 50] Android_Adreno7xx_Vulkan, [00000A318FDA9BC0][00000A318FEB7800 50] Android_Mali_T6xx, [00000A318FDA5080][00000A318FEBA000 50] Android_Mali_T7xx, [00000A318FDA8F80][00000A318FEBC800 50] Android_Mali_T8xx, [00000A318FDAA480][00000A318FEA2800 50] Android_Mali_G71, [00000A318FDA6900][00000A318FEC0000 50] Android_Mali_G72, [00000A318FDA9300][00000A318FEC5000 50] Android_Mali_G72_Vulkan, [00000A318FDAB280][00000A318FEC7800 50] Android_Mali_G76, [00000A318FDAB440][00000A318FECA000 50] Android_Mali_G76_Vulkan, [00000A318FDA9D80][00000A318FECC800 50] Android_Mali_G77, [00000A318FDAB980][00000A318FEB2800 50] Android_Mali_G77_Vulkan, [00000A318FDABB40][00000A318FED0000 50] Android_Mali_G78, [00000A318FDA2680][00000A318FED5000 50] Android_Mali_G78_Vulkan, [00000A318FDA9840][00000A318FED7800 50] Android_Mali_G710, [00000A318FDA3D40][00000A318FEDA000 50] Android_Mali_G710_Vulkan, [00000A318FDAB600][00000A318FEDC800 50] Android_Xclipse_920, [00000A318FDAAD40][00000A318FEC2800 50] Android_Xclipse_920_Vulkan, [00000A318FDA5CC0][00000A318FEE0000 50] Android_Vulkan_SM5, [00000A318FDAC080][00000A318FEE5000 50] Android_PowerVR_G6xxx, [00000A318FDAA100][00000A318FEE7800 50] Android_PowerVR_GT7xxx, [00000A318FDACE80][00000A318FEEA000 50] Android_PowerVR_GE8xxx, [00000A318FDAD040][00000A318FEEC800 50] Android_PowerVR_GM9xxx, [00000A318FDAB0C0][00000A318FED2800 50] Android_PowerVR_GM9xxx_Vulkan, [00000A318FDAAF00][00000A318FEF0000 50] Android_TegraK1, [00000A318FDAD200][00000A318FEF5000 50] Android_Unknown_Vulkan, [00000A318FDABEC0][00000A318FEF7800 50] Oculus_Quest, [00000A318FDA8500][00000A318FEFA000 50] Oculus_Quest2, [00000A318FDADAC0][00000A318FEFC800 50] HoloLens, 
+[2023.11.23-20.16.42:255][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.11.23-20.16.42:297][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.11.23-20.16.42:303][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.11.23-20.16.42:303][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.11.23-20.16.42:303][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.11.23-20.16.42:303][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.11.23-20.16.42:303][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.18362.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.11.23-20.16.43:268][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.11.23-20.16.43:268][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.11.23-20.16.43:268][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.11.23-20.16.43:268][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.11.23-20.16.43:268][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.11.23-20.16.43:436][  0]LogNetVersion: ShootingGallery 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1183880198)
+[2023.11.23-20.16.43:733][  0]LogSlate: Border
+[2023.11.23-20.16.43:733][  0]LogSlate: BreadcrumbButton
+[2023.11.23-20.16.43:733][  0]LogSlate: Default
+[2023.11.23-20.16.43:733][  0]LogSlate: Icons.Save
+[2023.11.23-20.16.43:733][  0]LogSlate: Icons.Toolbar.Settings
+[2023.11.23-20.16.43:733][  0]LogSlate: ListView
+[2023.11.23-20.16.43:733][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.11.23-20.16.43:733][  0]LogSlate: SoftwareCursor_Grab
+[2023.11.23-20.16.43:733][  0]LogSlate: TableView.DarkRow
+[2023.11.23-20.16.43:733][  0]LogSlate: TableView.Row
+[2023.11.23-20.16.43:733][  0]LogSlate: TreeView
+[2023.11.23-20.16.44:155][  0]SourceControl: Source control is disabled
+[2023.11.23-20.16.44:211][  0]SourceControl: Source control is disabled
+[2023.11.23-20.16.44:211][  0]SourceControl: Source control is disabled
+[2023.11.23-20.16.44:757][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.11.23-20.16.44:758][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.11.23-20.16.44:758][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.11.23-20.16.51:016][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 5ECA251947D56FD4927119A53340717B | Instance: 419B62C84CBBA3A2C0298BBEA801FB94 (LAP-N0132097-18468).
+[2023.11.23-20.16.52:524][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.11.23-20.16.52:595][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.11.23-20.16.52:867][  0]LogPython: Using Python 3.9.7
+[2023.11.23-20.16.55:923][  0]SourceControl: Source control is disabled
+[2023.11.23-20.16.55:988][  0]SourceControl: Source control is disabled
+[2023.11.23-20.16.56:052][  0]SourceControl: Source control is disabled
+[2023.11.23-20.16.56:174][  0]LogUProjectInfo: Found projects:
+[2023.11.23-20.17.00:974][  0]LogOpenImageDenoise: OIDN starting up
+[2023.11.23-20.17.01:564][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.11.23-20.17.01:564][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.11.23-20.17.01:685][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.11.23-20.17.02:709][  0]LogCollectionManager: Loaded 0 collections in 0.004229 seconds
+[2023.11.23-20.17.03:711][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aja7/Documents/GitHub/ShootingGallery/Saved/Collections/' took 0.00s
+[2023.11.23-20.17.03:711][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aja7/Documents/GitHub/ShootingGallery/Content/Developers/aja7/Collections/' took 0.00s
+[2023.11.23-20.17.03:711][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aja7/Documents/GitHub/ShootingGallery/Content/Collections/' took 0.00s
+[2023.11.23-20.17.04:643][  0]LogEngine: Initializing Engine...
+[2023.11.23-20.17.04:663][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.11.23-20.17.04:695][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.11.23-20.17.05:190][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.11.23-20.17.05:191][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.23-20.17.05:265][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-20.17.05:369][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.11.23-20.17.05:371][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.11.23-20.17.05:503][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.11.23-20.17.05:506][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.11.23-20.17.05:506][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.11.23-20.17.05:507][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.11.23-20.17.05:507][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.11.23-20.17.05:507][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.23-20.17.05:507][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.23-20.17.05:507][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.23-20.17.05:507][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.23-20.17.05:507][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.23-20.17.05:507][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.23-20.17.05:507][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.23-20.17.05:507][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.23-20.17.05:507][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.23-20.17.05:507][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.23-20.17.05:507][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.23-20.17.05:604][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.23-20.17.06:669][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.11.23-20.17.06:670][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.23-20.17.06:725][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.23-20.17.06:725][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.23-20.17.06:726][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.11.23-20.17.06:726][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.23-20.17.06:728][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.23-20.17.06:728][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.11.23-20.17.06:728][  0]LogInit: FAudioDevice initialized.
+[2023.11.23-20.17.06:728][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.11.23-20.17.06:728][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.11.23-20.17.06:728][  0]LogInit: Texture streaming: Enabled
+[2023.11.23-20.17.06:947][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.11.23-20.17.07:020][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.11.23-20.17.07:115][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.11.23-20.17.07:178][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.11.23-20.17.07:178][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.11.23-20.17.12:901][  0]LogLiveCoding: Display: First instance in process group "UE_ShootingGallery_0xb8571a06", spawning console
+[2023.11.23-20.17.12:901][  0]LogLiveCoding: Display: Waiting for server
+[2023.11.23-20.17.12:901][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.11.23-20.17.12:974][  0]LogInit: Transaction tracking system initialized
+[2023.11.23-20.17.13:268][  0]BlueprintLog: New page: Editor Load
+[2023.11.23-20.17.14:441][  0]LocalizationService: Localization service is disabled
+[2023.11.23-20.17.14:653][  0]TimingProfiler: Initialize
+[2023.11.23-20.17.14:654][  0]TimingProfiler: OnSessionChanged
+[2023.11.23-20.17.14:655][  0]LoadingProfiler: Initialize
+[2023.11.23-20.17.14:655][  0]LoadingProfiler: OnSessionChanged
+[2023.11.23-20.17.14:658][  0]NetworkingProfiler: Initialize
+[2023.11.23-20.17.14:661][  0]NetworkingProfiler: OnSessionChanged
+[2023.11.23-20.17.14:661][  0]MemoryProfiler: Initialize
+[2023.11.23-20.17.14:661][  0]MemoryProfiler: OnSessionChanged
+[2023.11.23-20.17.17:154][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aja7/Documents/GitHub/ShootingGallery/Content/' took 0.01s
+[2023.11.23-20.17.17:154][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.11.23-20.17.18:278][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.11.23-20.17.18:281][  0]SourceControl: Source control is disabled
+[2023.11.23-20.17.18:281][  0]LogUnrealEdMisc: Loading editor; pre map load, took 53.786
+[2023.11.23-20.17.18:281][  0]Cmd: MAP LOAD FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/DefaultMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.11.23-20.17.18:282][  0]LightingResults: New page: Lighting Build
+[2023.11.23-20.17.18:290][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-20.17.18:291][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-20.17.18:291][  0]MapCheck: New page: Map Check
+[2023.11.23-20.17.18:291][  0]LightingResults: New page: Lighting Build
+[2023.11.23-20.17.18:302][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.23-20.17.18:306][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.11.23-20.17.18:497][  0]LogSkeletalMesh: Display: [AssetLog] C:\Users\aja7\Documents\GitHub\ShootingGallery\Content\SkeletonCrew\Skeleton_Swordman\Character\Skeleton_Swordman.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2023.11.23-20.17.18:504][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'DefaultMap'.
+[2023.11.23-20.17.18:505][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.23-20.17.18:505][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-20.17.18:506][  0]LogAIModule: Creating AISystem for world DefaultMap
+[2023.11.23-20.17.19:906][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.23-20.17.19:919][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.11.23-20.17.19:919][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.23-20.17.19:919][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.497ms to complete.
+[2023.11.23-20.17.19:919][  0]LogFileHelpers: Loading map 'DefaultMap' took 1.638
+[2023.11.23-20.17.19:966][  0]LogUnrealEdMisc: Total Editor Startup Time, took 55.471
+[2023.11.23-20.17.19:966][  0]LogShaderCompilers: Display: ================================================
+[2023.11.23-20.17.19:966][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.23-20.17.19:966][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.11.23-20.17.19:966][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.11.23-20.17.19:966][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.11.23-20.17.19:966][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.23-20.17.19:966][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.11.23-20.17.19:966][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.11.23-20.17.19:966][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.11.23-20.17.19:966][  0]LogShaderCompilers: Display: ================================================
+[2023.11.23-20.17.20:099][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-20.17.20:106][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-20.17.20:112][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-20.17.20:119][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-20.17.20:201][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.11.23-20.17.20:201][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.23-20.17.20:204][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.11.23-20.17.20:204][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.23-20.17.20:207][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.11.23-20.17.20:207][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.23-20.17.20:210][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.11.23-20.17.20:210][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.23-20.17.20:214][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.11.23-20.17.20:214][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.23-20.17.20:217][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.11.23-20.17.20:217][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.23-20.17.20:220][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.11.23-20.17.20:220][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.23-20.17.20:224][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.11.23-20.17.20:224][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.23-20.17.20:227][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.11.23-20.17.20:227][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.23-20.17.20:229][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.11.23-20.17.20:229][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.23-20.17.20:230][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.11.23-20.17.20:854][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.11.23-20.17.20:961][  0]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2023.11.23-20.17.21:545][  0]LogSlate: Took 0.002067 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.11.23-20.17.21:553][  0]LogSlate: Took 0.002087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.11.23-20.17.21:556][  0]LogSlate: Took 0.001324 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.11.23-20.17.21:586][  0]LogViewport: Scene viewport resized to 1462x858, mode Windowed.
+[2023.11.23-20.17.22:625][  0]LogStall: Startup...
+[2023.11.23-20.17.22:627][  0]LogStall: Startup complete.
+[2023.11.23-20.17.22:738][  0]LogLoad: (Engine Initialization) Total time: 58.24 seconds
+[2023.11.23-20.17.22:738][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.11.23-20.17.22:943][  0]LogAssetRegistry: Asset discovery search completed in 41.8950 seconds
+[2023.11.23-20.17.22:963][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2023.11.23-20.17.22:993][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.11.23-20.17.23:053][  0]LogSlate: Took 0.001357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.11.23-20.17.23:491][  2]LogNavigationDataBuild: Navigation data generation finished in /Game/DefaultMap.
+[2023.11.23-20.17.44:369][969]LogSlate: Took 0.044803 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.11.23-20.17.44:381][969]LogSlate: Took 0.001581 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.11.23-20.18.38:582][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.11.23-20.18.40:035][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Blank_A.T_Blank_A (TFO_AutoDXT, 8X8 X1X1) (Required Memory Estimate: 0.001221 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.40:035][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Blank_C.T_Blank_C (TFO_AutoDXT, 8X8 X1X1) (Required Memory Estimate: 0.001221 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.40:035][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Blank_N.T_Blank_N (TFO_BC5, 8X8 X1X1) (Required Memory Estimate: 0.001221 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.40:035][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Particles/PS_CandleFlame.PS_CandleFlame:ThumbnailTexture (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.40:035][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Particles/Textures/T_CandleFlame.T_CandleFlame (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.40:035][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Candles_A.T_Candles_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.40:035][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Candles_C.T_Candles_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.40:035][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Candles_N.T_Candles_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.40:035][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Candle_Holder_A.T_Candle_Holder_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.40:036][199]LogMaterial: Display: Missing cached shadermap for M_Candles_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 298BFA98B8996B09BD84D527C9310B01E83B0DA2), compiling. 
+[2023.11.23-20.18.40:829][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Candle_Holder_C.T_Candle_Holder_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.40:829][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Candle_Holder_N.T_Candle_Holder_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.40:829][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_CandleHolder_Bronze_A.T_CandleHolder_Bronze_A (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.40:829][199]LogMaterial: Display: Missing cached shadermap for M_Candles_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: 785A90735D464161A48792F21CEBB9FEBC1C37A8), compiling. 
+[2023.11.23-20.18.41:107][199]LogMaterial: Display: Missing cached shadermap for M_CandleFlame in PCD3D_SM5, Default, SM5 (DDC key hash: 076712F91119420330F11A448C4B4B01C051BD84), compiling. 
+[2023.11.23-20.18.41:422][199]LogStaticMesh: Display: Building static mesh SM_Candle...
+[2023.11.23-20.18.41:422][199]LogStaticMesh: Built static mesh [0.09s] /Game/MedievalDungeon/Meshes/Props/SM_Candle.SM_Candle
+[2023.11.23-20.18.41:422][199]LogMaterial: Display: Missing cached shadermap for M_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 29F25423ACAC1F5B8EC8DA47B6F2C4A1B6FB33F2), compiling. 
+[2023.11.23-20.18.42:163][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_CandleHolder_Bronze_C.T_CandleHolder_Bronze_C (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.42:163][199]LogDerivedDataCache: C:/Users/aja7/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.884 and deleted 0 file(s) with total size 0 MiB.
+[2023.11.23-20.18.42:164][199]LogMaterial: Display: Missing cached shadermap for M_Candle_Holder_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: 547030BB36833241BB7461C8BB7379CECE98DBE1), compiling. 
+[2023.11.23-20.18.42:620][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_CandleHolder_Bronze_N.T_CandleHolder_Bronze_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.42:620][199]LogMaterial: Display: Missing cached shadermap for M_Flicker_Light_Function in PCD3D_SM5, Default, SM5 (DDC key hash: CEC10B213A08837F3BCDD21AAB1EF3FAD8EC9ED3), compiling. 
+[2023.11.23-20.18.42:893][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_CandleHolder_Iron_A.T_CandleHolder_Iron_A (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.42:893][199]LogMaterial: Display: Missing cached shadermap for M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: BA3CF865779CB5BF1405C49FFA0F2EC37E1BD0B6), compiling. 
+[2023.11.23-20.18.43:630][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_CandleHolder_Iron_C.T_CandleHolder_Iron_C (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.43:630][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_CandleHolder_Iron_N.T_CandleHolder_Iron_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.43:630][199]LogMaterial: Display: Missing cached shadermap for M_StoneWall_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: AF7D299D1723DA95BCB2C8E912A20ADC11E2D690), compiling. 
+[2023.11.23-20.18.44:326][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_CandleStick_Bronze_A.T_CandleStick_Bronze_A (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.44:326][199]LogMaterial: Display: Missing cached shadermap for M_Torch_Flicker_Light_Function in PCD3D_SM5, Default, SM5 (DDC key hash: A3E8E61A611A29052AFC3694E897B497FCF94717), compiling. 
+[2023.11.23-20.18.44:897][199]LogMaterial: Display: Missing cached shadermap for M_Statue in PCD3D_SM5, Default, SM5 (DDC key hash: 6A47A744FDE058996C78307AAC22848F526A5D3C), compiling. 
+[2023.11.23-20.18.45:051][199]LogMaterial: Display: Missing cached shadermap for M_Statue_Stand_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: AB529BA3FAD6FBCFE97BF654180BCC51F4FC8C5B), compiling. 
+[2023.11.23-20.18.45:229][199]LogMaterial: Display: Missing cached shadermap for M_Skeleton_Dirty in PCD3D_SM5, Default, SM5 (DDC key hash: 7FEFAABA3CD2241B54B6752964AA5B61A6DF43E8), compiling. 
+[2023.11.23-20.18.45:959][199]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MedievalDungeon/Maps/Demonstration.Demonstration
+[2023.11.23-20.18.45:960][199]Cmd: MAP LOAD FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/MedievalDungeon/Maps/Demonstration.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.11.23-20.18.45:961][199]LightingResults: New page: Lighting Build
+[2023.11.23-20.18.45:961][199]LoadErrors: New page: Loading map: Demonstration.umap
+[2023.11.23-20.18.45:969][199]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-20.18.45:970][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-20.18.45:970][199]MapCheck: New page: Map Check
+[2023.11.23-20.18.45:970][199]LightingResults: New page: Lighting Build
+[2023.11.23-20.18.46:004][199]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.23-20.18.46:018][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.11.23-20.18.46:049][199]LogTexture: Display: Waiting for textures to be ready 2/173 (/Game/MedievalDungeon/Textures/T_CandleHolder_Bronze_A) ...
+[2023.11.23-20.18.46:647][199]LogTexture: Display: Waiting for textures to be ready 3/173 (/Game/MedievalDungeon/Textures/T_CandleHolder_Bronze_C) ...
+[2023.11.23-20.18.47:373][199]LogTexture: Display: Waiting for textures to be ready 5/173 (/Game/MedievalDungeon/Textures/T_CandleHolder_Iron_A) ...
+[2023.11.23-20.18.47:890][199]LogTexture: Display: Waiting for textures to be ready 6/173 (/Game/MedievalDungeon/Textures/T_CandleHolder_Iron_C) ...
+[2023.11.23-20.18.51:340][199]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2023.11.23-20.18.51:340][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_CandleStick_Bronze_C.T_CandleStick_Bronze_C (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.51:340][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_CandleStick_Iron_N.T_CandleStick_Iron_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.51:340][199]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049936s
+[2023.11.23-20.18.51:364][199]LogTexture: Display: Waiting for textures to be ready 9/173 (/Game/MedievalDungeon/Textures/T_CandleStick_Bronze_C) ...
+[2023.11.23-20.18.51:426][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_CandleStick_Iron_A.T_CandleStick_Iron_A (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.51:543][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_CandleStick_Bronze_N.T_CandleStick_Bronze_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.51:948][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_CandleStick_Iron_C.T_CandleStick_Iron_C (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.52:369][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Cell_Door_Front_A.T_Cell_Door_Front_A (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.53:001][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Cell_Door_Front_C.T_Cell_Door_Front_C (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.55:320][199]LogTexture: Display: Waiting for textures to be ready 12/173 (/Game/MedievalDungeon/Textures/T_CandleStick_Iron_C) ...
+[2023.11.23-20.18.55:612][199]LogTexture: Display: Waiting for textures to be ready 14/173 (/Game/MedievalDungeon/Textures/T_Cell_Door_Front_A) ...
+[2023.11.23-20.18.55:735][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Cell_Door_Front_N.T_Cell_Door_Front_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.56:156][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Chandelier_A.T_Chandelier_A (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.56:156][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_DoorHardware_Albedo.T_DoorHardware_Albedo (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.56:367][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Chandelier_N.T_Chandelier_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.56:579][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Chandelier_C.T_Chandelier_C (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.56:733][199]LogTexture: Display: Waiting for textures to be ready 16/173 (/Game/MedievalDungeon/Textures/T_Cell_Door_Front_N) ...
+[2023.11.23-20.18.57:209][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_DoorHardware_C.T_DoorHardware_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.18.57:421][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_DoorHardware_N.T_DoorHardware_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.08:279][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_DoorWay_Large_Door_Right_Albedo.T_DoorWay_Large_Door_Right_Albedo (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.08:279][199]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' exceeded budget of 10.000000s, reporting...
+[2023.11.23-20.19.08:279][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Large_Window_Half_A.T_Large_Window_Half_A (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.08:279][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_DoorWay_Large_DoorRight_Compact.T_DoorWay_Large_DoorRight_Compact (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.08:279][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_DoorWay_Large_Door_Right_Normal.T_DoorWay_Large_Door_Right_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.08:279][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_StoneWall_A.T_StoneWall_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.08:279][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Large_Window_Half_N.T_Large_Window_Half_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.08:279][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Large_Window_Half_C.T_Large_Window_Half_C (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.08:279][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_StoneWall_C.T_StoneWall_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.08:280][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_StoneWall_H.T_StoneWall_H (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.08:280][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_StoneWall_N.T_StoneWall_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.08:280][199]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' report submitted, and took 0.049975s
+[2023.11.23-20.19.08:311][199]LogTexture: Display: Waiting for textures to be ready 25/173 (/Game/MedievalDungeon/Textures/T_DoorWay_Large_DoorRight_Compact) ...
+[2023.11.23-20.19.08:703][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Metal_A.T_Metal_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.08:884][199]LogTexture: Display: Waiting for textures to be ready 27/173 (/Game/MedievalDungeon/Textures/T_Large_Window_Half_C) ...
+[2023.11.23-20.19.09:130][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_DoorWay_Large_Door_Left_Albedo.T_DoorWay_Large_Door_Left_Albedo (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.09:130][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Metal_C.T_Metal_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.09:130][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_DoorWay_Large_Door_Left_Compact.T_DoorWay_Large_Door_Left_Compact (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.09:550][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Metal_N.T_Metal_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.09:735][199]LogTexture: Display: Waiting for textures to be ready 34/173 (/Game/MedievalDungeon/Textures/T_DoorWay_Large_Door_Left_Albedo) ...
+[2023.11.23-20.19.10:174][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Gibbet_Cage_Mount_Texturing_A.T_Gibbet_Cage_Mount_Texturing_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.10:386][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Gibbet_Cage_Mount_Texturing_C.T_Gibbet_Cage_Mount_Texturing_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.10:596][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_DoorWay_Large_Door_Left_Normal.T_DoorWay_Large_Door_Left_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.11:016][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Gibbet_Cage_Mount_Texturing_N.T_Gibbet_Cage_Mount_Texturing_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.11:441][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Half_Arch_A.T_Half_Arch_A (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.12:503][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Torch_A.T_Torch_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.13:352][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Half_Arch_C.T_Half_Arch_C (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.13:777][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Torch_C.T_Torch_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.14:204][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Half_Arch_N.T_Half_Arch_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.15:260][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Torch_N.T_Torch_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.15:260][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Maps/Demonstration_BuiltData.Demonstration_BuiltData:DeprecatedTexture1E94CC8D4400BAC9D18B68A97FE7290C (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.15:260][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Maps/Demonstration_BuiltData.Demonstration_BuiltData:DeprecatedTexture760178FE4AF82C3FC16AD3B37B6ECEE9 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.15:260][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Maps/Demonstration_BuiltData.Demonstration_BuiltData:DeprecatedTexture5B848798415DE1BB22E39FA7F5B1478F (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.15:260][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Maps/Demonstration_BuiltData.Demonstration_BuiltData:DeprecatedTextureD017BA874133D93111CEADBC24AED1D2 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.15:260][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Maps/Demonstration_BuiltData.Demonstration_BuiltData:DeprecatedTexture114104934D36431CCE896287451881E5 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.15:260][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Maps/Demonstration_BuiltData.Demonstration_BuiltData:DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.15:470][199]LogTexture: Display: Waiting for textures to be ready 44/173 (/Game/MedievalDungeon/Textures/T_Half_Arch_C) ...
+[2023.11.23-20.19.15:678][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_BrickFloor_Clean_H.T_BrickFloor_Clean_H (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.15:678][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_BrickFloor_Clean_C.T_BrickFloor_Clean_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.15:678][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_BrickFloor_Clean_A.T_BrickFloor_Clean_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.15:737][199]LogTexture: Display: Waiting for textures to be ready 45/173 (/Game/MedievalDungeon/Textures/T_Half_Arch_N) ...
+[2023.11.23-20.19.16:106][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_BrickFloor_Clean_N.T_BrickFloor_Clean_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.16:319][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Coffin_Albedo.T_Coffin_Albedo (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.16:319][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Coffin_Compact.T_Coffin_Compact (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.17:349][199]LogTexture: Display: Waiting for textures to be ready 61/173 (/Game/MedievalDungeon/Textures/T_BrickFloor_Clean_A) ...
+[2023.11.23-20.19.17:441][199]LogTexture: Display: Waiting for textures to be ready 62/173 (/Game/MedievalDungeon/Textures/T_BrickFloor_Clean_C) ...
+[2023.11.23-20.19.17:571][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Coffin_Normal.T_Coffin_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.17:571][199]LogTexture: Display: Waiting for textures to be ready 65/173 (/Game/MedievalDungeon/Textures/T_Coffin_Albedo) ...
+[2023.11.23-20.19.17:687][199]LogTexture: Display: Waiting for textures to be ready 67/173 (/Game/MedievalDungeon/Textures/T_Coffin_Normal) ...
+[2023.11.23-20.19.17:876][199]LogTexture: Display: Waiting for textures to be ready 68/173 (/Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_B_Albedo) ...
+[2023.11.23-20.19.18:213][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Statue_Hooded_Metal_A.T_Statue_Hooded_Metal_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.18:849][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_B_Albedo.T_Crypt_Wall_Decorative_B_Albedo (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.18:849][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Statue_Hooded_Metal_C.T_Statue_Hooded_Metal_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.19:059][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_B_Compact.T_Crypt_Wall_Decorative_B_Compact (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.19:483][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Pillar_C.T_Pillar_C (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.19:483][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Pillar_N.T_Pillar_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.19:483][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Pillar_A.T_Pillar_A (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.19:483][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_B_Normal.T_Crypt_Wall_Decorative_B_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.19:904][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Statue_Hooded_Metal_N.T_Statue_Hooded_Metal_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.21:896][199]LogTexture: Display: Waiting for textures to be ready 69/173 (/Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_B_Compact) ...
+[2023.11.23-20.19.22:228][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Torture_Chair_A.T_Torture_Chair_A (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.22:648][199]LogTexture: Display: Waiting for textures to be ready 70/173 (/Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_B_Normal) ...
+[2023.11.23-20.19.23:270][199]LogTexture: Display: Waiting for textures to be ready 72/173 (/Game/MedievalDungeon/Textures/T_Pillar_C) ...
+[2023.11.23-20.19.23:417][199]LogTexture: Display: Waiting for textures to be ready 77/173 (/Game/MedievalDungeon/Textures/T_Torture_Chair_A) ...
+[2023.11.23-20.19.24:106][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Ceiling_Arch_Albedo.T_Ceiling_Arch_Albedo (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.24:106][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Torture_Chair_C.T_Torture_Chair_C (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.24:317][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Edge_Stones_And_Straight_Column_Texturing_Albedo.T_Edge_Stones_And_Straight_Column_Texturing_Albedo (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.24:317][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Ceiling_Arch_Compact.T_Ceiling_Arch_Compact (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.24:491][199]LogTexture: Display: Waiting for textures to be ready 78/173 (/Game/MedievalDungeon/Textures/T_Torture_Chair_C) ...
+[2023.11.23-20.19.24:947][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Ceiling_Arch_Normal.T_Ceiling_Arch_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.25:159][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Torture_Chair_Normal.T_Torture_Chair_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.25:791][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Edge_Stones_And_Straight_Column_Texturing_Compact.T_Edge_Stones_And_Straight_Column_Texturing_Compact (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.28:147][199]LogTexture: Display: Waiting for textures to be ready 79/173 (/Game/MedievalDungeon/Textures/T_Torture_Chair_Normal) ...
+[2023.11.23-20.19.28:590][199]LogTexture: Display: Waiting for textures to be ready 81/173 (/Game/MedievalDungeon/Textures/T_Ceiling_Arch_Albedo) ...
+[2023.11.23-20.19.29:077][199]LogTexture: Display: Waiting for textures to be ready 86/173 (/Game/MedievalDungeon/Textures/T_Edge_Stones_And_Straight_Column_Texturing_Normal) ...
+[2023.11.23-20.19.29:376][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Edge_Stones_And_Straight_Column_Texturing_Normal.T_Edge_Stones_And_Straight_Column_Texturing_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.29:586][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Dungeon_Wall_Decorative_A_A.T_Dungeon_Wall_Decorative_A_A (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.30:010][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Dungeon_Wall_Decorative_A_C.T_Dungeon_Wall_Decorative_A_C (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.30:430][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_C_Albedo.T_Crypt_Wall_Decorative_C_Albedo (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.30:430][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_C_Compact.T_Crypt_Wall_Decorative_C_Compact (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.30:854][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_C_Normal.T_Crypt_Wall_Decorative_C_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.30:854][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Dungeon_Wall_Decorative_A_N.T_Dungeon_Wall_Decorative_A_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.31:309][199]LogTexture: Display: Waiting for textures to be ready 87/173 (/Game/MedievalDungeon/Textures/T_Dungeon_Wall_Decorative_A_A) ...
+[2023.11.23-20.19.32:336][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_D_A.T_Crypt_Wall_Decorative_D_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.33:472][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_D_C.T_Crypt_Wall_Decorative_D_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.34:413][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_D_N.T_Crypt_Wall_Decorative_D_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.34:413][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Tiling_Plaster_A.T_Tiling_Plaster_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.34:413][199]LogTexture: Display: Waiting for textures to be ready 88/173 (/Game/MedievalDungeon/Textures/T_Dungeon_Wall_Decorative_A_C) ...
+[2023.11.23-20.19.34:431][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Tiling_Plaster_C.T_Tiling_Plaster_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.34:720][199]LogTexture: Display: Waiting for textures to be ready 94/173 (/Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_D_C) ...
+[2023.11.23-20.19.34:848][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Tiling_Plaster_N.T_Tiling_Plaster_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.35:170][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Mausoleum_Part_A_A.T_Mausoleum_Part_A_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.35:170][199]LogTexture: Display: Waiting for textures to be ready 95/173 (/Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_D_N) ...
+[2023.11.23-20.19.35:472][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Mausoleum_Part_A_C.T_Mausoleum_Part_A_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.35:500][199]LogTexture: Display: Waiting for textures to be ready 96/173 (/Game/MedievalDungeon/Textures/T_Tiling_Plaster_A) ...
+[2023.11.23-20.19.35:674][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Mausoleum_Part_A_N.T_Mausoleum_Part_A_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.36:097][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Mausoleum_Part_B_A.T_Mausoleum_Part_B_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.36:238][199]LogTexture: Display: Waiting for textures to be ready 99/173 (/Game/MedievalDungeon/Textures/T_Mausoleum_Part_A_A) ...
+[2023.11.23-20.19.36:345][199]LogTexture: Display: Waiting for textures to be ready 100/173 (/Game/MedievalDungeon/Textures/T_Mausoleum_Part_A_C) ...
+[2023.11.23-20.19.36:510][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Mausoleum_Part_B_C.T_Mausoleum_Part_B_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.36:530][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Mausoleum_Part_B_N.T_Mausoleum_Part_B_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.36:530][199]LogTexture: Display: Waiting for textures to be ready 101/173 (/Game/MedievalDungeon/Textures/T_Mausoleum_Part_A_N) ...
+[2023.11.23-20.19.36:576][199]LogTexture: Display: Waiting for textures to be ready 102/173 (/Game/MedievalDungeon/Textures/T_Mausoleum_Part_B_A) ...
+[2023.11.23-20.19.36:803][199]LogTexture: Display: Waiting for textures to be ready 103/173 (/Game/MedievalDungeon/Textures/T_Mausoleum_Part_B_C) ...
+[2023.11.23-20.19.36:926][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Cell_Side_A.T_Cell_Side_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.37:051][199]LogTexture: Display: Waiting for textures to be ready 104/173 (/Game/MedievalDungeon/Textures/T_Mausoleum_Part_B_N) ...
+[2023.11.23-20.19.37:135][199]LogTexture: Display: Waiting for textures to be ready 105/173 (/Game/MedievalDungeon/Textures/T_Mausoleum_Ceiling_A) ...
+[2023.11.23-20.19.37:346][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Cell_Side_C.T_Cell_Side_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.37:557][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Decorative_Arches_A.T_Decorative_Arches_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.37:768][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Mausoleum_Ceiling_A.T_Mausoleum_Ceiling_A (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.37:978][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Cell_Side_N.T_Cell_Side_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.37:978][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Decorative_Arches_C.T_Decorative_Arches_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.38:400][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Mausoleum_Ceiling_C.T_Mausoleum_Ceiling_C (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.38:400][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Decorative_Arches_N.T_Decorative_Arches_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.38:612][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Mausoleum_Ceiling_N.T_Mausoleum_Ceiling_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.39:249][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Fire_Pit_A.T_Fire_Pit_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.39:249][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Fire_Pit_C.T_Fire_Pit_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.39:882][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Fire_Pit_N.T_Fire_Pit_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.39:910][199]LogTexture: Display: Waiting for textures to be ready 106/173 (/Game/MedievalDungeon/Textures/T_Mausoleum_Ceiling_C) ...
+[2023.11.23-20.19.40:083][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_SplitLog_A.T_SplitLog_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.40:928][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_SplitLog_C.T_SplitLog_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.41:139][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Small_Window_A.T_Small_Window_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.41:139][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Small_Window_C.T_Small_Window_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.41:351][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_SplitLog_N.T_SplitLog_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.41:351][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Small_Window_N.T_Small_Window_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.42:545][199]LogTexture: Display: Waiting for textures to be ready 123/173 (/Game/MedievalDungeon/Textures/T_Stairs_10_Albedo) ...
+[2023.11.23-20.19.42:826][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Stone_Altar_A.T_Stone_Altar_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.42:826][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Stone_Altar_C.T_Stone_Altar_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.43:040][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Chains_Texturing_A.T_Chains_Texturing_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.43:251][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Stone_Altar_N.T_Stone_Altar_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.43:882][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Stairs_10_Compact.T_Stairs_10_Compact (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.43:882][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Stairs_10_Albedo.T_Stairs_10_Albedo (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.44:090][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Chains_Texturing_C.T_Chains_Texturing_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.44:090][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Chains_Texturing_N.T_Chains_Texturing_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.44:301][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Bed_A.T_Bed_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.44:301][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Bed_C.T_Bed_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.44:723][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Stairs_10_Normal.T_Stairs_10_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.45:563][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Bed_N.T_Bed_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.46:201][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Dirt_Mound_Texturing_A.T_Dirt_Mound_Texturing_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.46:411][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Dirt_Mound_Texturing_C.T_Dirt_Mound_Texturing_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.46:839][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Gargoyle_A.T_Gargoyle_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.46:839][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Dirt_Mound_Texturing_N.T_Dirt_Mound_Texturing_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.47:474][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Gargoyle_C.T_Gargoyle_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.47:891][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Gargoyle_Stand_A.T_Gargoyle_Stand_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.47:914][199]LogTexture: Display: Waiting for textures to be ready 124/173 (/Game/MedievalDungeon/Textures/T_Stairs_10_Compact) ...
+[2023.11.23-20.19.48:104][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Gargoyle_N.T_Gargoyle_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.48:392][199]LogTexture: Display: Waiting for textures to be ready 139/173 (/Game/MedievalDungeon/Textures/T_Gargoyle_C) ...
+[2023.11.23-20.19.48:529][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Gargoyle_Stand_C.T_Gargoyle_Stand_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.48:551][199]LogTexture: Display: Waiting for textures to be ready 140/173 (/Game/MedievalDungeon/Textures/T_Gargoyle_N) ...
+[2023.11.23-20.19.48:736][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Gargoyle_Stand_N.T_Gargoyle_Stand_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.48:736][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Pots_Texturing_C.T_Pots_Texturing_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.48:737][199]LogTexture: Display: Waiting for textures to be ready 142/173 (/Game/MedievalDungeon/Textures/T_Gargoyle_Stand_C) ...
+[2023.11.23-20.19.48:946][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Pots_Texturing_A.T_Pots_Texturing_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.48:946][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Pots_Texturing_N.T_Pots_Texturing_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.49:017][199]LogTexture: Display: Waiting for textures to be ready 143/173 (/Game/MedievalDungeon/Textures/T_Gargoyle_Stand_N) ...
+[2023.11.23-20.19.49:156][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Statue_Hooded_A.T_Statue_Hooded_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.49:156][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Statue_Hooded_N.T_Statue_Hooded_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.49:156][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Statue_Hooded_R.T_Statue_Hooded_R (BGRA8, 2048X2048 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.49:465][199]LogTexture: Display: Waiting for textures to be ready 144/173 (/Game/MedievalDungeon/Textures/T_Pots_Texturing_A) ...
+[2023.11.23-20.19.49:992][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Statue_Stand_A.T_Statue_Stand_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.50:183][199]LogTexture: Display: Waiting for textures to be ready 150/173 (/Game/MedievalDungeon/Textures/T_Statue_Stand_A) ...
+[2023.11.23-20.19.50:415][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Statue_Stand_C.T_Statue_Stand_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.50:626][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Statue_Stand_N.T_Statue_Stand_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.50:626][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Stone_Coffin_A.T_Stone_Coffin_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.51:256][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Stone_Coffin_C.T_Stone_Coffin_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.51:460][199]LogTexture: Display: Waiting for textures to be ready 152/173 (/Game/MedievalDungeon/Textures/T_Statue_Stand_N) ...
+[2023.11.23-20.19.51:565][199]LogTexture: Display: Waiting for textures to be ready 153/173 (/Game/MedievalDungeon/Textures/T_Stocks_A) ...
+[2023.11.23-20.19.52:094][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Stone_Coffin_N.T_Stone_Coffin_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.52:094][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Stocks_A.T_Stocks_A (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.52:303][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Stocks_C.T_Stocks_C (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.53:142][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Table_A.T_Table_A (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.53:142][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Stocks_N.T_Stocks_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.53:352][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Table_C.T_Table_C (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.53:981][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Wood_A.T_Wood_A (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.54:192][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Table_N.T_Table_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.56:303][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Wood_C.T_Wood_C (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.57:143][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Skeleton_Clean_A.T_Skeleton_Clean_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.57:467][199]LogTexture: Display: Waiting for textures to be ready 155/173 (/Game/MedievalDungeon/Textures/T_Stocks_N) ...
+[2023.11.23-20.19.57:801][199]LogTexture: Display: Waiting for textures to be ready 161/173 (/Game/MedievalDungeon/Textures/T_Table_N) ...
+[2023.11.23-20.19.57:975][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Skeleton_Clean_C.T_Skeleton_Clean_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.58:000][199]LogTexture: Display: Waiting for textures to be ready 162/173 (/Game/MedievalDungeon/Textures/T_Wood_A) ...
+[2023.11.23-20.19.58:175][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Wood_N.T_Wood_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.58:597][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Skeleton_Dirty_A.T_Skeleton_Dirty_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.58:597][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Skeleton_Clean_N.T_Skeleton_Clean_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.19.59:437][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Skeleton_Dirty_C.T_Skeleton_Dirty_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.20.00:074][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Medieval_Dungeon_LUT.T_Medieval_Dungeon_LUT (BGRA8, 256X16 X1X1) (Required Memory Estimate: 0.078125 MB), EncodeSpeed: Fast
+[2023.11.23-20.20.00:287][199]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Skeleton_Dirty_N.T_Skeleton_Dirty_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.11.23-20.20.00:667][199]LogTexture: Display: Waiting for textures to be ready 164/173 (/Game/MedievalDungeon/Textures/T_Wood_N) ...
+[2023.11.23-20.20.00:701][199]LogStaticMesh: Display: Building static mesh SM_CandleHolder_Bronze...
+[2023.11.23-20.20.00:701][199]LogStaticMesh: Display: Building static mesh SM_Candle_Used_C...
+[2023.11.23-20.20.00:701][199]LogStaticMesh: Display: Building static mesh SM_CandleHolder_Iron...
+[2023.11.23-20.20.00:704][199]LogStaticMesh: Display: Building static mesh SM_Candle_Used_A...
+[2023.11.23-20.20.00:911][199]LogStaticMesh: Display: Building static mesh SM_Candle_Used_B...
+[2023.11.23-20.20.00:911][199]LogStaticMesh: Built static mesh [0.10s] /Game/MedievalDungeon/Meshes/Props/SM_Candle_Used_C.SM_Candle_Used_C
+[2023.11.23-20.20.00:911][199]LogStaticMesh: Built static mesh [0.08s] /Game/MedievalDungeon/Meshes/Props/SM_Candle_Used_B.SM_Candle_Used_B
+[2023.11.23-20.20.00:911][199]LogStaticMesh: Built static mesh [0.11s] /Game/MedievalDungeon/Meshes/Props/SM_CandleHolder_Bronze.SM_CandleHolder_Bronze
+[2023.11.23-20.20.00:911][199]LogStaticMesh: Built static mesh [0.09s] /Game/MedievalDungeon/Meshes/Props/SM_Candle_Used_A.SM_Candle_Used_A
+[2023.11.23-20.20.00:911][199]LogStaticMesh: Built static mesh [0.10s] /Game/MedievalDungeon/Meshes/Props/SM_CandleHolder_Iron.SM_CandleHolder_Iron
+[2023.11.23-20.20.00:911][199]LogStaticMesh: Display: Building static mesh SM_Cell_Door...
+[2023.11.23-20.20.00:911][199]LogStaticMesh: Display: Building static mesh SM_Cell_Front...
+[2023.11.23-20.20.00:911][199]LogStaticMesh: Display: Building static mesh SM_Crypt_Doorway...
+[2023.11.23-20.20.00:911][199]LogStaticMesh: Built static mesh [0.06s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Cell_Door.SM_Cell_Door
+[2023.11.23-20.20.00:911][199]LogStaticMesh: Display: Building static mesh SM_CandleStick_Iron...
+[2023.11.23-20.20.00:911][199]LogStaticMesh: Built static mesh [0.08s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Cell_Front.SM_Cell_Front
+[2023.11.23-20.20.01:033][199]LogStaticMesh: Built static mesh [0.10s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Doorway.SM_Crypt_Doorway
+[2023.11.23-20.20.01:033][199]LogStaticMesh: Display: Building static mesh SM_Candle_Holder...
+[2023.11.23-20.20.01:033][199]LogStaticMesh: Display: Building static mesh SM_DoorWay_Large_Door_Left...
+[2023.11.23-20.20.01:033][199]LogStaticMesh: Display: Building static mesh SM_DoorWay_Large_Door_Right...
+[2023.11.23-20.20.01:033][199]LogStaticMesh: Display: Building static mesh SM_DoorWay...
+[2023.11.23-20.20.01:033][199]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' complete in 0.000250s (52.802275s overbudget)
+[2023.11.23-20.20.01:118][199]LogStaticMesh: Built static mesh [0.15s] /Game/MedievalDungeon/Meshes/Props/SM_CandleStick_Iron.SM_CandleStick_Iron
+[2023.11.23-20.20.01:118][199]LogStaticMesh: Display: Building static mesh SM_Gibbet_Cage_Wall_Mount...
+[2023.11.23-20.20.01:118][199]LogStaticMesh: Display: Building static mesh SM_Gibbet_Cage...
+[2023.11.23-20.20.01:118][199]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage_Wall_Mount.SM_Gibbet_Cage_Wall_Mount
+[2023.11.23-20.20.01:320][199]LogStaticMesh: Built static mesh [0.11s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_DoorWay.SM_DoorWay
+[2023.11.23-20.20.01:320][199]LogStaticMesh: Built static mesh [0.15s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_DoorWay_Large_Door_Left.SM_DoorWay_Large_Door_Left
+[2023.11.23-20.20.01:320][199]LogStaticMesh: Display: Building static mesh SM_Crypt_Ceiling...
+[2023.11.23-20.20.01:320][199]LogStaticMesh: Display: Building static mesh SM_Crypt_Ceiling_Arch_A...
+[2023.11.23-20.20.01:320][199]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling.SM_Crypt_Ceiling
+[2023.11.23-20.20.01:320][199]LogStaticMesh: Display: Building static mesh SM_Torch...
+[2023.11.23-20.20.01:320][199]LogStaticMesh: Display: Building static mesh SM_Crypt_Floor...
+[2023.11.23-20.20.01:320][199]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Arch_A.SM_Crypt_Ceiling_Arch_A
+[2023.11.23-20.20.01:320][199]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Floor.SM_Crypt_Floor
+[2023.11.23-20.20.01:320][199]LogStaticMesh: Display: Building static mesh SM_Crypt_Floor_Concave...
+[2023.11.23-20.20.01:320][199]LogStaticMesh: Display: Building static mesh SM_Crypt_Floor_Concave_End_A...
+[2023.11.23-20.20.01:320][199]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Floor_Concave.SM_Crypt_Floor_Concave
+[2023.11.23-20.20.01:320][199]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Floor_Concave_End_A.SM_Crypt_Floor_Concave_End_A
+[2023.11.23-20.20.01:320][199]LogStaticMesh: Display: Building static mesh SM_Crypt_Floor_Concave_End_B...
+[2023.11.23-20.20.01:320][199]LogStaticMesh: Built static mesh [0.21s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_DoorWay_Large_Door_Right.SM_DoorWay_Large_Door_Right
+[2023.11.23-20.20.01:320][199]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Floor_Concave_End_B.SM_Crypt_Floor_Concave_End_B
+[2023.11.23-20.20.01:320][199]LogStaticMesh: Display: Building static mesh SM_Crypt_Wall...
+[2023.11.23-20.20.01:321][199]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall.SM_Crypt_Wall
+[2023.11.23-20.20.01:321][199]LogStaticMesh: Display: Building static mesh SM_Crypt_Wall_Decorative_A...
+[2023.11.23-20.20.01:321][199]LogStaticMesh: Display: Building static mesh SM_Crypt_Pillar...
+[2023.11.23-20.20.01:321][199]LogStaticMesh: Built static mesh [0.18s] /Game/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage.SM_Gibbet_Cage
+[2023.11.23-20.20.01:321][199]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Decorative_A.SM_Crypt_Wall_Decorative_A
+[2023.11.23-20.20.01:321][199]LogStaticMesh: Display: Building static mesh SM_Crypt_Wall_Decorative_B...
+[2023.11.23-20.20.01:321][199]LogStaticMesh: Display: Building static mesh SM_Crypt_Wall_Decorative_C...
+[2023.11.23-20.20.01:322][199]LogStaticMesh: Built static mesh [0.15s] /Game/MedievalDungeon/Meshes/Props/SM_Torch.SM_Torch
+[2023.11.23-20.20.01:521][199]LogStaticMesh: Display: Building static mesh SM_Crypt_Wall_Decorative_D...
+[2023.11.23-20.20.01:521][199]LogStaticMesh: Built static mesh [0.08s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Pillar.SM_Crypt_Pillar
+[2023.11.23-20.20.01:521][199]LogStaticMesh: Built static mesh [0.05s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Decorative_C.SM_Crypt_Wall_Decorative_C
+[2023.11.23-20.20.01:521][199]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Decorative_D.SM_Crypt_Wall_Decorative_D
+[2023.11.23-20.20.01:521][199]LogStaticMesh: Display: Building static mesh SM_Crypt_Wall_Stop_Gap...
+[2023.11.23-20.20.01:521][199]LogStaticMesh: Display: Building static mesh SM_Crypt_Wall_Floor_Trim...
+[2023.11.23-20.20.01:521][199]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Stop_Gap.SM_Crypt_Wall_Stop_Gap
+[2023.11.23-20.20.01:522][199]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Floor_Trim.SM_Crypt_Wall_Floor_Trim
+[2023.11.23-20.20.01:522][199]LogStaticMesh: Display: Building static mesh SM_Mausoleum_Lid_A...
+[2023.11.23-20.20.01:522][199]LogStaticMesh: Display: Building static mesh SM_Mausoleum_Lid_B...
+[2023.11.23-20.20.01:522][199]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum_Lid_A.SM_Mausoleum_Lid_A
+[2023.11.23-20.20.01:522][199]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum_Lid_B.SM_Mausoleum_Lid_B
+[2023.11.23-20.20.01:522][199]LogStaticMesh: Display: Building static mesh SM_Mausoleum_Lid_C...
+[2023.11.23-20.20.01:522][199]LogStaticMesh: Display: Building static mesh SM_Ceiling...
+[2023.11.23-20.20.01:522][199]LogStaticMesh: Built static mesh [0.13s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Decorative_B.SM_Crypt_Wall_Decorative_B
+[2023.11.23-20.20.01:522][199]LogStaticMesh: Display: Building static mesh SM_Mausoleum_Ceiling...
+[2023.11.23-20.20.01:522][199]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum_Lid_C.SM_Mausoleum_Lid_C
+[2023.11.23-20.20.01:522][199]LogStaticMesh: Display: Building static mesh SM_Ceiling_Flat...
+[2023.11.23-20.20.01:522][199]LogStaticMesh: Display: Building static mesh SM_Ceiling_Arch_A...
+[2023.11.23-20.20.01:522][199]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat
+[2023.11.23-20.20.01:522][199]LogStaticMesh: Built static mesh [0.04s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling.SM_Ceiling
+[2023.11.23-20.20.01:522][199]LogStaticMesh: Display: Building static mesh SM_Mausoleum...
+[2023.11.23-20.20.01:522][199]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Arch_A.SM_Ceiling_Arch_A
+[2023.11.23-20.20.01:522][199]LogStaticMesh: Display: Building static mesh SM_Ceiling_Half...
+[2023.11.23-20.20.01:522][199]LogStaticMesh: Display: Building static mesh SM_Ceiling_Piece...
+[2023.11.23-20.20.01:522][199]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Piece.SM_Ceiling_Piece
+[2023.11.23-20.20.01:522][199]LogStaticMesh: Display: Building static mesh SM_Ceiling_Piece_B...
+[2023.11.23-20.20.01:522][199]LogStaticMesh: Display: Building static mesh SM_Ceiling_Third...
+[2023.11.23-20.20.01:522][199]LogStaticMesh: Built static mesh [0.04s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Half.SM_Ceiling_Half
+[2023.11.23-20.20.01:522][199]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Piece_B.SM_Ceiling_Piece_B
+[2023.11.23-20.20.01:522][199]LogStaticMesh: Built static mesh [0.09s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum_Ceiling.SM_Mausoleum_Ceiling
+[2023.11.23-20.20.01:522][199]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Third.SM_Ceiling_Third
+[2023.11.23-20.20.01:722][199]LogStaticMesh: Display: Building static mesh SM_Cell_Side...
+[2023.11.23-20.20.01:722][199]LogStaticMesh: Display: Building static mesh SM_Dungeon_Wall...
+[2023.11.23-20.20.01:722][199]LogStaticMesh: Display: Building static mesh SM_Dungeon_Wall_Decorative_A...
+[2023.11.23-20.20.01:722][199]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Dungeon_Wall.SM_Dungeon_Wall
+[2023.11.23-20.20.01:722][199]LogStaticMesh: Display: Building static mesh SM_Dungeon_Wall_Decorative_D...
+[2023.11.23-20.20.01:722][199]LogStaticMesh: Display: Building static mesh SM_Decorative_Arches...
+[2023.11.23-20.20.01:722][199]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Dungeon_Wall_Decorative_A.SM_Dungeon_Wall_Decorative_A
+[2023.11.23-20.20.01:722][199]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Dungeon_Wall_Decorative_D.SM_Dungeon_Wall_Decorative_D
+[2023.11.23-20.20.01:722][199]LogStaticMesh: Built static mesh [0.07s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Cell_Side.SM_Cell_Side
+[2023.11.23-20.20.01:722][199]LogStaticMesh: Built static mesh [0.65s] /Game/MedievalDungeon/Meshes/Props/SM_Candle_Holder.SM_Candle_Holder
+[2023.11.23-20.20.01:722][199]LogStaticMesh: Display: Building static mesh SM_Floor...
+[2023.11.23-20.20.01:722][199]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.SM_Floor
+[2023.11.23-20.20.01:722][199]LogStaticMesh: Built static mesh [0.06s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Decorative_Arches.SM_Decorative_Arches
+[2023.11.23-20.20.01:722][199]LogStaticMesh: Built static mesh [0.16s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum.SM_Mausoleum
+[2023.11.23-20.20.01:722][199]LogStaticMesh: Display: Building static mesh SM_Edge_Stones...
+[2023.11.23-20.20.01:722][199]LogStaticMesh: Display: Building static mesh SM_Large_Window_Half...
+[2023.11.23-20.20.01:722][199]LogStaticMesh: Display: Building static mesh SM_Small_Window_Half...
+[2023.11.23-20.20.01:722][199]LogStaticMesh: Display: Building static mesh SM_Pillar...
+[2023.11.23-20.20.01:931][199]LogStaticMesh: Built static mesh [0.07s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Large_Window_Half.SM_Large_Window_Half
+[2023.11.23-20.20.01:931][199]LogStaticMesh: Built static mesh [0.05s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Small_Window_Half.SM_Small_Window_Half
+[2023.11.23-20.20.01:931][199]LogStaticMesh: Display: Building static mesh SM_Stairs_5...
+[2023.11.23-20.20.01:931][199]LogStaticMesh: Display: Building static mesh SM_Stairs_10...
+[2023.11.23-20.20.01:931][199]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Stairs_5.SM_Stairs_5
+[2023.11.23-20.20.01:931][199]LogStaticMesh: Display: Building static mesh SM_Wall_Floor_Trim...
+[2023.11.23-20.20.01:931][199]LogStaticMesh: Built static mesh [0.09s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Pillar.SM_Pillar
+[2023.11.23-20.20.01:931][199]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Stairs_10.SM_Stairs_10
+[2023.11.23-20.20.01:931][199]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Wall_Floor_Trim.SM_Wall_Floor_Trim
+[2023.11.23-20.20.01:931][199]LogStaticMesh: Display: Building static mesh Wall_Short...
+[2023.11.23-20.20.01:931][199]LogStaticMesh: Display: Building static mesh SM_Alter...
+[2023.11.23-20.20.01:931][199]LogStaticMesh: Built static mesh [0.14s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.11.23-20.20.01:931][199]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/Wall_Short.Wall_Short
+[2023.11.23-20.20.01:931][199]LogStaticMesh: Display: Building static mesh SM_Half_Arch...
+[2023.11.23-20.20.01:931][199]LogStaticMesh: Display: Building static mesh SM_Chandelier...
+[2023.11.23-20.20.01:931][199]LogStaticMesh: Built static mesh [0.04s] /Game/MedievalDungeon/Meshes/Props/SM_Alter.SM_Alter
+[2023.11.23-20.20.01:931][199]LogStaticMesh: Display: Building static mesh SM_Coffin...
+[2023.11.23-20.20.01:931][199]LogStaticMesh: Display: Building static mesh SM_Bed...
+[2023.11.23-20.20.01:931][199]LogStaticMesh: Built static mesh [0.05s] /Game/MedievalDungeon/Meshes/Props/SM_Coffin.SM_Coffin
+[2023.11.23-20.20.01:931][199]LogStaticMesh: Built static mesh [0.07s] /Game/MedievalDungeon/Meshes/Props/SM_Bed.SM_Bed
+[2023.11.23-20.20.02:134][199]LogStaticMesh: Display: Building static mesh SM_Fire_Pit...
+[2023.11.23-20.20.02:134][199]LogStaticMesh: Display: Building static mesh SM_Decor_Ring...
+[2023.11.23-20.20.02:134][199]LogStaticMesh: Built static mesh [0.07s] /Game/MedievalDungeon/Meshes/Props/SM_Decor_Ring.SM_Decor_Ring
+[2023.11.23-20.20.02:134][199]LogStaticMesh: Display: Building static mesh SM_Dirt_Mound_A...
+[2023.11.23-20.20.02:134][199]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_A.SM_Dirt_Mound_A
+[2023.11.23-20.20.02:134][199]LogStaticMesh: Display: Building static mesh SM_Dirt_Mound_B...
+[2023.11.23-20.20.02:134][199]LogStaticMesh: Built static mesh [0.04s] /Game/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_B.SM_Dirt_Mound_B
+[2023.11.23-20.20.02:134][199]LogStaticMesh: Display: Building static mesh SM_Decor_Chains_B...
+[2023.11.23-20.20.02:134][199]LogStaticMesh: Display: Building static mesh SM_Dirt_Mound_C...
+[2023.11.23-20.20.02:337][199]LogStaticMesh: Display: Building static mesh SM_Ball_And_Chain...
+[2023.11.23-20.20.02:337][199]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_C.SM_Dirt_Mound_C
+[2023.11.23-20.20.02:337][199]LogStaticMesh: Display: Building static mesh SM_Dirt_Mound_D...
+[2023.11.23-20.20.02:337][199]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_D.SM_Dirt_Mound_D
+[2023.11.23-20.20.02:337][199]LogStaticMesh: Built static mesh [0.45s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Half_Arch.SM_Half_Arch
+[2023.11.23-20.20.02:547][199]LogStaticMesh: Display: Building static mesh SM_Gibbet_Cage_Open...
+[2023.11.23-20.20.02:547][199]LogStaticMesh: Built static mesh [0.41s] /Game/MedievalDungeon/Meshes/Props/SM_Decor_Chains_B.SM_Decor_Chains_B
+[2023.11.23-20.20.02:547][199]LogStaticMesh: Display: Building static mesh SM_Gargoyle_Statue_On_Stand...
+[2023.11.23-20.20.02:747][199]LogStaticMesh: Display: Building static mesh SM_Handcuff...
+[2023.11.23-20.20.02:747][199]LogStaticMesh: Built static mesh [0.73s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Fire_Pit.SM_Fire_Pit
+[2023.11.23-20.20.02:747][199]LogStaticMesh: Built static mesh [0.06s] /Game/MedievalDungeon/Meshes/Props/SM_Handcuff.SM_Handcuff
+[2023.11.23-20.20.02:747][199]LogStaticMesh: Built static mesh [0.56s] /Game/MedievalDungeon/Meshes/Props/SM_Ball_And_Chain.SM_Ball_And_Chain
+[2023.11.23-20.20.02:747][199]LogStaticMesh: Display: Building static mesh SM_Lock_Closed...
+[2023.11.23-20.20.02:956][199]LogStaticMesh: Built static mesh [0.27s] /Game/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage_Open.SM_Gibbet_Cage_Open
+[2023.11.23-20.20.02:956][199]LogStaticMesh: Built static mesh [0.07s] /Game/MedievalDungeon/Meshes/Props/SM_Lock_Closed.SM_Lock_Closed
+[2023.11.23-20.20.02:956][199]LogStaticMesh: Display: Building static mesh SM_Lock_Key...
+[2023.11.23-20.20.02:956][199]LogStaticMesh: Display: Building static mesh SM_Lock_Open...
+[2023.11.23-20.20.02:956][199]LogStaticMesh: Built static mesh [0.04s] /Game/MedievalDungeon/Meshes/Props/SM_Lock_Key.SM_Lock_Key
+[2023.11.23-20.20.02:956][199]LogStaticMesh: Built static mesh [0.06s] /Game/MedievalDungeon/Meshes/Props/SM_Lock_Open.SM_Lock_Open
+[2023.11.23-20.20.02:956][199]LogStaticMesh: Display: Building static mesh SM_Pot_A_Body...
+[2023.11.23-20.20.02:956][199]LogStaticMesh: Display: Building static mesh SM_Pot_A_Lid...
+[2023.11.23-20.20.02:956][199]LogStaticMesh: Display: Building static mesh SM_Decor_Chains_A...
+[2023.11.23-20.20.02:957][199]LogStaticMesh: Display: Building static mesh SM_Pot_A_Complete...
+[2023.11.23-20.20.06:309][199]LogStaticMesh: Display: Building static mesh SM_Pot_B_Body...
+[2023.11.23-20.20.06:309][199]LogStaticMesh: Built static mesh [0.10s] /Game/MedievalDungeon/Meshes/Props/SM_Pot_A_Lid.SM_Pot_A_Lid
+[2023.11.23-20.20.06:309][199]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2023.11.23-20.20.06:309][199]LogStaticMesh: Built static mesh [0.18s] /Game/MedievalDungeon/Meshes/Props/SM_Pot_A_Body.SM_Pot_A_Body
+[2023.11.23-20.20.06:309][199]LogStaticMesh: Built static mesh [0.63s] /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue_On_Stand.SM_Gargoyle_Statue_On_Stand
+[2023.11.23-20.20.06:309][199]LogStaticMesh: Display: Building static mesh SM_Pot_B_Lid...
+[2023.11.23-20.20.06:309][199]LogStaticMesh: Built static mesh [0.20s] /Game/MedievalDungeon/Meshes/Props/SM_Pot_B_Body.SM_Pot_B_Body
+[2023.11.23-20.20.06:309][199]LogStaticMesh: Built static mesh [0.27s] /Game/MedievalDungeon/Meshes/Props/SM_Pot_A_Complete.SM_Pot_A_Complete
+[2023.11.23-20.20.06:309][199]LogStaticMesh: Display: Building static mesh SM_Pot_B_Complete...
+[2023.11.23-20.20.06:309][199]LogStaticMesh: Display: Building static mesh SM_Pot_C_Lid...
+[2023.11.23-20.20.06:309][199]LogStaticMesh: Display: Building static mesh SM_Pot_C_Body...
+[2023.11.23-20.20.06:309][199]LogStaticMesh: Built static mesh [0.14s] /Game/MedievalDungeon/Meshes/Props/SM_Pot_B_Lid.SM_Pot_B_Lid
+[2023.11.23-20.20.06:310][199]LogStaticMesh: Built static mesh [0.07s] /Game/MedievalDungeon/Meshes/Props/SM_Pot_C_Lid.SM_Pot_C_Lid
+[2023.11.23-20.20.06:310][199]LogStaticMesh: Display: Building static mesh SM_Statue_Stand...
+[2023.11.23-20.20.06:310][199]LogStaticMesh: Display: Building static mesh SM_Pot_C_Complete...
+[2023.11.23-20.20.06:310][199]LogStaticMesh: Built static mesh [0.17s] /Game/MedievalDungeon/Meshes/Props/SM_Pot_C_Body.SM_Pot_C_Body
+[2023.11.23-20.20.06:310][199]LogStaticMesh: Built static mesh [0.27s] /Game/MedievalDungeon/Meshes/Props/SM_Pot_B_Complete.SM_Pot_B_Complete
+[2023.11.23-20.20.06:310][199]LogStaticMesh: Built static mesh [0.12s] /Game/MedievalDungeon/Meshes/Props/SM_Statue_Stand.SM_Statue_Stand
+[2023.11.23-20.20.06:310][199]LogStaticMesh: Display: Building static mesh SM_Stone_Coffin...
+[2023.11.23-20.20.06:310][199]LogStaticMesh: Display: Building static mesh SM_Stone_Coffin_Body...
+[2023.11.23-20.20.06:310][199]LogStaticMesh: Display: Building static mesh SM_Stocks_Game_Ready...
+[2023.11.23-20.20.06:311][199]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Props/SM_Stone_Coffin_Body.SM_Stone_Coffin_Body
+[2023.11.23-20.20.06:311][199]LogStaticMesh: Built static mesh [0.04s] /Game/MedievalDungeon/Meshes/Props/SM_Stone_Coffin.SM_Stone_Coffin
+[2023.11.23-20.20.06:311][199]LogStaticMesh: Display: Building static mesh SM_Stone_Coffin_Lid...
+[2023.11.23-20.20.06:311][199]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Props/SM_Stone_Coffin_Lid.SM_Stone_Coffin_Lid
+[2023.11.23-20.20.06:311][199]LogStaticMesh: Display: Building static mesh SM_Torture_Chair...
+[2023.11.23-20.20.06:311][199]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' report submitted, and took 0.049977s
+[2023.11.23-20.20.06:511][199]LogStaticMesh: Built static mesh [2.86s] /Game/MedievalDungeon/Meshes/Props/SM_Pot_C_Complete.SM_Pot_C_Complete
+[2023.11.23-20.20.06:511][199]LogStaticMesh: Built static mesh [2.74s] /Game/MedievalDungeon/Meshes/Props/SM_Stocks_Game_Ready.SM_Stocks_Game_Ready
+[2023.11.23-20.20.06:511][199]LogStaticMesh: Display: Building static mesh SM_Wood_G...
+[2023.11.23-20.20.06:511][199]LogStaticMesh: Built static mesh [2.69s] /Game/MedievalDungeon/Meshes/Props/SM_Torture_Chair.SM_Torture_Chair
+[2023.11.23-20.20.06:511][199]LogStaticMesh: Built static mesh [0.04s] /Game/MedievalDungeon/Meshes/Props/SM_Wood_G.SM_Wood_G
+[2023.11.23-20.20.06:511][199]LogStaticMesh: Display: Building static mesh SM_Bones_ClavicalLeft...
+[2023.11.23-20.20.06:511][199]LogStaticMesh: Display: Building static mesh SM_Bones_ClavicalRight...
+[2023.11.23-20.20.06:511][199]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_ClavicalLeft.SM_Bones_ClavicalLeft
+[2023.11.23-20.20.06:511][199]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_ClavicalRight.SM_Bones_ClavicalRight
+[2023.11.23-20.20.06:511][199]LogStaticMesh: Display: Building static mesh SM_Bones_Arm...
+[2023.11.23-20.20.06:511][199]LogStaticMesh: Display: Building static mesh SM_Bones_FemurLeft...
+[2023.11.23-20.20.06:511][199]LogStaticMesh: Display: Building static mesh SM_Bones_FemurRight...
+[2023.11.23-20.20.06:511][199]LogStaticMesh: Display: Building static mesh SM_Table...
+[2023.11.23-20.20.06:511][199]LogStaticMesh: Built static mesh [0.04s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_FemurRight.SM_Bones_FemurRight
+[2023.11.23-20.20.06:511][199]LogStaticMesh: Built static mesh [0.05s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_FemurLeft.SM_Bones_FemurLeft
+[2023.11.23-20.20.06:712][199]LogStaticMesh: Display: Building static mesh SM_Bones_FibulaLeft...
+[2023.11.23-20.20.06:712][199]LogStaticMesh: Display: Building static mesh SM_Bones_FibulaRight...
+[2023.11.23-20.20.06:712][199]LogStaticMesh: Built static mesh [0.12s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_Arm.SM_Bones_Arm
+[2023.11.23-20.20.06:712][199]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_FibulaRight.SM_Bones_FibulaRight
+[2023.11.23-20.20.06:712][199]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_FibulaLeft.SM_Bones_FibulaLeft
+[2023.11.23-20.20.06:712][199]LogStaticMesh: Display: Building static mesh SM_Bones_HandLeft...
+[2023.11.23-20.20.06:712][199]LogStaticMesh: Display: Building static mesh SM_Bones_HandRight...
+[2023.11.23-20.20.06:712][199]LogStaticMesh: Display: Building static mesh SM_Bones_FootLeft...
+[2023.11.23-20.20.06:712][199]LogStaticMesh: Built static mesh [0.04s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_HandLeft.SM_Bones_HandLeft
+[2023.11.23-20.20.06:712][199]LogStaticMesh: Built static mesh [0.05s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_HandRight.SM_Bones_HandRight
+[2023.11.23-20.20.06:712][199]LogStaticMesh: Display: Building static mesh SM_Bones_Jaw...
+[2023.11.23-20.20.06:712][199]LogStaticMesh: Built static mesh [0.07s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_FootLeft.SM_Bones_FootLeft
+[2023.11.23-20.20.06:712][199]LogStaticMesh: Built static mesh [0.04s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_Jaw.SM_Bones_Jaw
+[2023.11.23-20.20.06:914][199]LogStaticMesh: Display: Building static mesh SM_Bones_Hips...
+[2023.11.23-20.20.06:914][199]LogStaticMesh: Display: Building static mesh SM_Bones_Neck...
+[2023.11.23-20.20.06:914][199]LogStaticMesh: Built static mesh [0.10s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_Hips.SM_Bones_Hips
+[2023.11.23-20.20.06:914][199]LogStaticMesh: Built static mesh [0.04s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_Neck.SM_Bones_Neck
+[2023.11.23-20.20.06:914][199]LogStaticMesh: Display: Building static mesh SM_Bones_Leg...
+[2023.11.23-20.20.06:914][199]LogStaticMesh: Display: Building static mesh SM_Bones_RadiusLeft...
+[2023.11.23-20.20.06:914][199]LogStaticMesh: Display: Building static mesh SM_Bones_RadiusRight...
+[2023.11.23-20.20.06:914][199]LogStaticMesh: Built static mesh [0.04s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_RadiusLeft.SM_Bones_RadiusLeft
+[2023.11.23-20.20.06:914][199]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_RadiusRight.SM_Bones_RadiusRight
+[2023.11.23-20.20.06:914][199]LogStaticMesh: Display: Building static mesh SM_Bones_ScapulaLeft...
+[2023.11.23-20.20.07:124][199]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_ScapulaLeft.SM_Bones_ScapulaLeft
+[2023.11.23-20.20.07:125][199]LogStaticMesh: Built static mesh [0.51s] /Game/MedievalDungeon/Meshes/Props/SM_Table.SM_Table
+[2023.11.23-20.20.07:125][199]LogStaticMesh: Display: Building static mesh SM_Bones_Skull...
+[2023.11.23-20.20.07:125][199]LogStaticMesh: Display: Building static mesh SM_Bones_TibiaLeft...
+[2023.11.23-20.20.07:334][199]LogStaticMesh: Built static mesh [0.12s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_Skull.SM_Bones_Skull
+[2023.11.23-20.20.07:334][199]LogStaticMesh: Built static mesh [0.05s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_TibiaLeft.SM_Bones_TibiaLeft
+[2023.11.23-20.20.07:334][199]LogStaticMesh: Built static mesh [0.31s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_Leg.SM_Bones_Leg
+[2023.11.23-20.20.07:334][199]LogStaticMesh: Display: Building static mesh SM_Bones_UlnaLeft...
+[2023.11.23-20.20.07:334][199]LogStaticMesh: Display: Building static mesh SM_Statue_Hooded...
+[2023.11.23-20.20.07:334][199]LogStaticMesh: Display: Building static mesh SM_Bones_TibiaRight...
+[2023.11.23-20.20.07:334][199]LogStaticMesh: Display: Building static mesh SM_Bones_UlnaRight...
+[2023.11.23-20.20.07:334][199]LogStaticMesh: Built static mesh [0.07s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_UlnaRight.SM_Bones_UlnaRight
+[2023.11.23-20.20.07:334][199]LogStaticMesh: Built static mesh [0.10s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_UlnaLeft.SM_Bones_UlnaLeft
+[2023.11.23-20.20.07:334][199]LogStaticMesh: Built static mesh [0.08s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_TibiaRight.SM_Bones_TibiaRight
+[2023.11.23-20.20.07:334][199]LogStaticMesh: Built static mesh [4.35s] /Game/MedievalDungeon/Meshes/Props/SM_Decor_Chains_A.SM_Decor_Chains_A
+[2023.11.23-20.20.07:537][199]LogStaticMesh: Display: Building static mesh SM_Bones_RibCage...
+[2023.11.23-20.20.07:951][199]LogStaticMesh: Built static mesh [5.96s] /Game/MedievalDungeon/Meshes/Props/SM_Chandelier.SM_Chandelier
+[2023.11.23-20.20.07:951][199]LogStaticMesh: Built static mesh [0.60s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_RibCage.SM_Bones_RibCage
+[2023.11.23-20.20.08:561][199]LogStaticMesh: Display: Building static mesh SM_Skeleton_03...
+[2023.11.23-20.20.08:561][199]LogStaticMesh: Display: Building static mesh SM_Skeleton_02...
+[2023.11.23-20.20.08:764][199]LogStaticMesh: Display: Building static mesh SM_Skeleton_05...
+[2023.11.23-20.20.08:764][199]LogStaticMesh: Display: Building static mesh SM_Skeleton_01...
+[2023.11.23-20.20.08:965][199]LogStaticMesh: Built static mesh [1.67s] /Game/MedievalDungeon/Meshes/Props/SM_Statue_Hooded.SM_Statue_Hooded
+[2023.11.23-20.20.09:796][199]LogStaticMesh: Built static mesh [1.24s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_02.SM_Skeleton_02
+[2023.11.23-20.20.09:796][199]LogStaticMesh: Built static mesh [1.28s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_03.SM_Skeleton_03
+[2023.11.23-20.20.10:206][199]LogStaticMesh: Built static mesh [1.38s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_01.SM_Skeleton_01
+[2023.11.23-20.20.21:457][199]LogStaticMesh: Built static mesh [12.65s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_05.SM_Skeleton_05
+[2023.11.23-20.21.34:357][199]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 0.000687s (88.095020s overbudget)
+[2023.11.23-20.21.34:471][199]LogShaderCompilers: Display: ================================================
+[2023.11.23-20.21.34:471][199]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.23-20.21.34:471][199]LogShaderCompilers: Display: Total job queries 731, among them cache hits 0 (0.00%)
+[2023.11.23-20.21.34:471][199]LogShaderCompilers: Display: Tracking 731 distinct input hashes that result in 344 distinct outputs (47.06%)
+[2023.11.23-20.21.34:471][199]LogShaderCompilers: Display: RAM used: 1.03 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.06%
+[2023.11.23-20.21.34:471][199]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.23-20.21.34:471][199]LogShaderCompilers: Display: Shaders Compiled: 731
+[2023.11.23-20.21.34:471][199]LogShaderCompilers: Display: Jobs assigned 731, completed 731 (100.00%)
+[2023.11.23-20.21.34:471][199]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.11.23-20.21.34:471][199]LogShaderCompilers: Display: Time job spent in pending queue: average 103.97 s, longest 170.89 s
+[2023.11.23-20.21.34:471][199]LogShaderCompilers: Display: Job execution time: average 17.07 s, max 58.04 s
+[2023.11.23-20.21.34:471][199]LogShaderCompilers: Display: Job life time (pending + execution): average 121.04 s, max 172.23
+[2023.11.23-20.21.34:471][199]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 173.56 s
+[2023.11.23-20.21.34:471][199]LogShaderCompilers: Display: Jobs were issued in 90 batches (only local compilation was used), average 8.12 jobs/batch
+[2023.11.23-20.21.34:471][199]LogShaderCompilers: Display: Average processing rate: 4.21 jobs/sec
+[2023.11.23-20.21.34:471][199]LogShaderCompilers: Display: Effective parallelization: 6.98 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.11.23-20.21.34:471][199]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.23-20.21.34:471][199]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   17 times, average 3.96 sec, max 15.00 sec, min 1.26 sec)
+[2023.11.23-20.21.34:471][199]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   17 times, average 3.35 sec, max 14.05 sec, min 1.27 sec)
+[2023.11.23-20.21.34:471][199]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   22 times, average 3.06 sec, max 21.25 sec, min 0.82 sec)
+[2023.11.23-20.21.34:471][199]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   17 times, average 2.84 sec, max 16.92 sec, min 1.35 sec)
+[2023.11.23-20.21.34:471][199]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled   14 times, average 2.76 sec, max 18.89 sec, min 1.25 sec)
+[2023.11.23-20.21.34:471][199]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.23-20.21.34:472][199]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.57% of total time (compiled   22 times, average 3.06 sec, max 21.25 sec, min 0.82 sec)
+[2023.11.23-20.21.34:472][199]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 5.56% of total time (compiled   17 times, average 3.96 sec, max 15.00 sec, min 1.26 sec)
+[2023.11.23-20.21.34:472][199]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 4.71% of total time (compiled   17 times, average 3.35 sec, max 14.05 sec, min 1.27 sec)
+[2023.11.23-20.21.34:472][199]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.34% of total time (compiled   20 times, average 2.63 sec, max 9.28 sec, min 0.81 sec)
+[2023.11.23-20.21.34:472][199]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 3.99% of total time (compiled   17 times, average 2.84 sec, max 16.92 sec, min 1.35 sec)
+[2023.11.23-20.21.34:472][199]LogShaderCompilers: Display: ================================================
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 1.1s - 126x7x35 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 91% occupied, 8 triangles, SM_Crypt_Wall_Stop_Gap
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 2.1s - 98x98x7 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 100% occupied, 0 triangles, SM_Crypt_Floor
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 2.2s - 98x98x7 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 100% occupied, 3 triangles, SM_Crypt_Floor_Concave
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 2.3s - 98x98x7 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 100% occupied, 3 triangles, SM_Crypt_Floor_Concave_End_B
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 2.3s - 98x98x7 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 100% occupied, 3 triangles, SM_Crypt_Floor_Concave_End_A
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 2.4s - 98x7x91 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 100% occupied, 1 triangles, SM_Crypt_Wall
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 2.6s - 7x119x77 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 97% occupied, 398 triangles, SM_Cell_Front
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 2.2s - 28x28x63 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 100% occupied, 668 triangles, SM_Crypt_Pillar
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 2.5s - 98x7x91 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 100% occupied, 1 triangles, SM_Crypt_Wall_Plaster
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 1.2s - 7x126x42 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 80% occupied, 106 triangles, SM_Ceiling_Arch_A
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 1.8s - 63x63x42 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 45% occupied, 32 triangles, SM_Ceiling_Piece
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 1.8s - 63x63x42 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 45% occupied, 32 triangles, SM_Ceiling_Piece_B
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 4.4s - 98x21x91 sparse distance field, 0.3Mb total, 0.0Mb always loaded, 82% occupied, 143 triangles, SM_Crypt_Wall_Decorative_A
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 5.3s - 98x98x42 sparse distance field, 0.4Mb total, 0.0Mb always loaded, 50% occupied, 128 triangles, SM_Crypt_Ceiling
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 4.6s - 98x21x91 sparse distance field, 0.3Mb total, 0.0Mb always loaded, 83% occupied, 207 triangles, SM_Crypt_Wall_Decorative_C
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 3.1s - 119x119x7 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 100% occupied, 0 triangles, SM_Ceiling_Flat
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 4.0s - 98x21x91 sparse distance field, 0.3Mb total, 0.0Mb always loaded, 80% occupied, 137 triangles, SM_Crypt_Wall_Decorative_D
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 3.6s - 63x119x42 sparse distance field, 0.3Mb total, 0.0Mb always loaded, 45% occupied, 64 triangles, SM_Ceiling_Half
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 6.3s - 98x21x98 sparse distance field, 0.3Mb total, 0.0Mb always loaded, 90% occupied, 850 triangles, SM_Crypt_Doorway
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 1.1s - 28x28x42 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 100% occupied, 5338 triangles, SM_Candle_Holder
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 2.6s - 7x112x77 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 100% occupied, 292 triangles, SM_Cell_Side
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 1.4s - 7x119x42 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 100% occupied, 462 triangles, SM_Small_Window_Half
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 3.8s - 7x119x119 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 100% occupied, 1 triangles, SM_Dungeon_Wall
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 6.2s - 98x28x91 sparse distance field, 0.4Mb total, 0.0Mb always loaded, 88% occupied, 773 triangles, SM_Crypt_Wall_Decorative_B
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 3.2s - 119x119x7 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 100% occupied, 0 triangles, SM_Floor
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 5.5s - 119x119x42 sparse distance field, 0.4Mb total, 0.0Mb always loaded, 37% occupied, 98 triangles, SM_Ceiling_Third
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 9.3s - 21x119x126 sparse distance field, 0.5Mb total, 0.0Mb always loaded, 95% occupied, 845 triangles, SM_DoorWay
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 7.2s - 119x119x42 sparse distance field, 0.5Mb total, 0.0Mb always loaded, 46% occupied, 128 triangles, SM_Ceiling
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 1.6s - 119x14x14 sparse distance field, 0.0Mb total, 0.0Mb always loaded, 100% occupied, 1664 triangles, SM_Edge_Stones
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 2.7s - 126x28x21 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 100% occupied, 56 triangles, SM_Stairs_5
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 1.1s - 21x49x21 sparse distance field, 0.0Mb total, 0.0Mb always loaded, 100% occupied, 482 triangles, SM_Bed
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 1.0s - 21x21x42 sparse distance field, 0.0Mb total, 0.0Mb always loaded, 100% occupied, 1580 triangles, SM_Gibbet_Cage_Open
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 3.4s - 28x28x91 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 100% occupied, 971 triangles, SM_Pillar
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 5.1s - 14x119x77 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 100% occupied, 521 triangles, SM_Large_Window_Half
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 6.9s - 21x119x119 sparse distance field, 0.4Mb total, 0.0Mb always loaded, 78% occupied, 135 triangles, SM_Dungeon_Wall_Decorative_D
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 6.0s - 14x119x119 sparse distance field, 0.3Mb total, 0.0Mb always loaded, 100% occupied, 650 triangles, SM_Decorative_Arches
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 7.9s - 21x119x119 sparse distance field, 0.5Mb total, 0.0Mb always loaded, 92% occupied, 142 triangles, SM_Dungeon_Wall_Decorative_A
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 1.1s - 42x42x14 sparse distance field, 0.0Mb total, 0.0Mb always loaded, 100% occupied, 5736 triangles, SM_Table
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 3.4s - 49x21x119 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 77% occupied, 3243 triangles, SM_Half_Arch
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 3.5s - 119x119x14 sparse distance field, 0.3Mb total, 0.0Mb always loaded, 100% occupied, 6852 triangles, SM_Fire_Pit
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 5.8s - 126x63x42 sparse distance field, 0.5Mb total, 0.0Mb always loaded, 85% occupied, 146 triangles, SM_Stairs_10
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 11.6s - 126x112x91 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 45% occupied, 594 triangles, SM_Mausoleum_Ceiling
+[2023.11.23-20.21.50:778][199]LogMeshUtilities: Finished distance field build in 9.6s - 126x112x91 sparse distance field, 1.4Mb total, 0.0Mb always loaded, 59% occupied, 1313 triangles, SM_Mausoleum
+[2023.11.23-20.21.51:782][199]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-20.21.51:786][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-20.21.51:815][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.11.23-20.21.51:831][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.11.23-20.21.51:968][199]LogAudio: Display: Audio Device (ID: 1) registered with world 'Demonstration'.
+[2023.11.23-20.21.51:968][199]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.23-20.21.51:968][199]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-20.21.51:969][199]LogAIModule: Creating AISystem for world Demonstration
+[2023.11.23-20.21.52:167][199]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.23-20.21.52:203][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.11.23-20.21.52:212][199]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.23-20.21.52:213][199]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.508ms to complete.
+[2023.11.23-20.21.52:213][199]LogFileHelpers: Loading map 'Demonstration' took 186.254
+[2023.11.23-20.21.52:223][199]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.003604s (168.824233s overbudget)
+[2023.11.23-20.21.52:512][200]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2023.11.23-20.21.52:612][200]LogD3D12RHI: Warning: Waited for PSO creation for 200.000000ms
+[2023.11.23-20.21.53:267][200]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2023.11.23-20.22.15:119][606]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.23-20.22.15:177][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.23-20.22.15:177][606]PIE: New page: PIE session: Demonstration (23 Nov 2023, 20:22:15)
+[2023.11.23-20.22.15:184][606]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.11.23-20.22.15:184][606]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.11.23-20.22.15:184][606]LogPlayLevel: Creating play world package: /Game/MedievalDungeon/Maps/UEDPIE_0_Demonstration
+[2023.11.23-20.22.15:348][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.165046s)
+[2023.11.23-20.22.15:348][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MedievalDungeon/Maps/Demonstration.Demonstration to /Game/MedievalDungeon/Maps/UEDPIE_0_Demonstration.Demonstration (0.165164s)
+[2023.11.23-20.22.15:349][606]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.23-20.22.15:349][606]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-20.22.15:349][606]LogAIModule: Creating AISystem for world Demonstration
+[2023.11.23-20.22.15:374][606]LogPlayLevel: PIE: World Init took: (0.025443s)
+[2023.11.23-20.22.15:400][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.11.23-20.22.15:404][606]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.11.23-20.22.15:404][606]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.23-20.22.15:404][606]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.23-20.22.15:404][606]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.23-20.22.15:404][606]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.23-20.22.15:404][606]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.23-20.22.15:404][606]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.23-20.22.15:404][606]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.23-20.22.15:404][606]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.23-20.22.15:405][606]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.23-20.22.15:405][606]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.23-20.22.15:405][606]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.23-20.22.15:409][606]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.23-20.22.15:675][606]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.11.23-20.22.15:676][606]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.23-20.22.15:676][606]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.23-20.22.15:676][606]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.23-20.22.15:677][606]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.11.23-20.22.15:677][606]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.11.23-20.22.15:679][606]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.11.23-20.22.15:679][606]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.11.23-20.22.15:679][606]LogInit: FAudioDevice initialized.
+[2023.11.23-20.22.15:679][606]LogAudio: Display: Audio Device (ID: 2) registered with world 'Demonstration'.
+[2023.11.23-20.22.15:732][606]LogLoad: Game class is 'ShootingGallery_GMB_C'
+[2023.11.23-20.22.15:783][606]LogWorld: Bringing World /Game/MedievalDungeon/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 60) at 2023.11.23-20.22.15
+[2023.11.23-20.22.15:784][606]LogWorld: Bringing up level for play took: 0.052347
+[2023.11.23-20.22.15:787][606]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2023.11.23-20.22.15:810][606]LogBlueprintUserMessages: [ShootingGallery_PC_C_0] TOO MANY CAMERAS IN LEVEL
+[2023.11.23-20.22.15:810][606]PIE: Server logged in
+[2023.11.23-20.22.15:811][606]PIE: Play in editor total start time 0.679 seconds.
+[2023.11.23-20.22.20:655][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-20.22.20:657][691]LogWorld: BeginTearingDown for /Game/MedievalDungeon/Maps/UEDPIE_0_Demonstration
+[2023.11.23-20.22.20:657][691]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-20.22.20:663][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-20.22.20:731][691]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.23-20.22.20:735][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-20.22.20:753][691]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.23-20.22.20:759][691]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.11.23-20.22.20:762][691]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.11.23-20.22.20:771][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-20.22.20:786][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.11.23-20.22.20:865][692]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.11.23-20.23.51:081][180]Cmd: MAP LOAD FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/DefaultMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.11.23-20.23.51:081][180]LightingResults: New page: Lighting Build
+[2023.11.23-20.23.51:081][180]LoadErrors: New page: Loading map: DefaultMap.umap
+[2023.11.23-20.23.51:101][180]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-20.23.51:102][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-20.23.51:102][180]MapCheck: New page: Map Check
+[2023.11.23-20.23.51:102][180]LightingResults: New page: Lighting Build
+[2023.11.23-20.23.51:122][180]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.23-20.23.51:142][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.11.23-20.23.51:160][180]LogAudio: Display: Audio Device (ID: 1) registered with world 'DefaultMap'.
+[2023.11.23-20.23.51:160][180]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.23-20.23.51:160][180]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-20.23.51:161][180]LogAIModule: Creating AISystem for world DefaultMap
+[2023.11.23-20.23.51:165][180]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.23-20.23.51:186][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.11.23-20.23.51:203][180]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.23-20.23.51:203][180]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.298ms to complete.
+[2023.11.23-20.23.51:203][180]LogFileHelpers: Loading map 'DefaultMap' took 0.122
+[2023.11.23-20.23.58:230][508]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SkeletonCrew/Skeleton_Swordman/SkelSword_C.SkelSword_C
+[2023.11.23-20.23.58:231][508]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-20.24.00:214][508]LogSlate: Took 0.001520 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.11.23-20.24.38:491][539]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.11.23-20.24.38:491][539]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.11.23-20.24.41:650][676]LogContentBrowser: Deferred new asset file creation: Skeleton_Swordman_Frenzied_Slash_Montage
+[2023.11.23-20.24.41:660][676]LogContentBrowser: Creating deferred item: Skeleton_Swordman_Frenzied_Slash_Montage
+[2023.11.23-20.24.41:675][677]LogContentBrowser: Renaming the item being created (Deferred Item: Skeleton_Swordman_Frenzied_Slash_Montage).
+[2023.11.23-20.24.42:748][735]LogContentBrowser: Attempting asset rename: Skeleton_Swordman_Frenzied_Slash_Montage -> Skeleton_Swordman_Frenzied_Slash_Montage
+[2023.11.23-20.24.42:750][735]LogContentBrowser: End creating deferred item Skeleton_Swordman_Frenzied_Slash_Montage
+[2023.11.23-20.24.45:239][863]LogSlate: Took 0.000646 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.11.23-20.24.54:836][371]BlueprintLog: New page: Compile SkelSword_C
+[2023.11.23-20.24.54:975][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.11.23-20.24.56:178][413]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.011812 seconds
+[2023.11.23-20.24.56:191][413]LogSavePackage: Moving output files for package: /Game/SkeletonCrew/Skeleton_Swordman/SkelSword_C
+[2023.11.23-20.24.56:193][413]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/SkelSword_C62BBC28A4D4651CD9A0D618DE346AAEE.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/SkeletonCrew/Skeleton_Swordman/SkelSword_C.uasset'
+[2023.11.23-20.24.56:259][413]AssetCheck: New page: Asset Save: SkelSword_C
+[2023.11.23-20.24.56:259][413]LogContentValidation: Display: Validating Blueprint /Game/SkeletonCrew/Skeleton_Swordman/SkelSword_C.SkelSword_C
+[2023.11.23-20.24.57:200][466]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.23-20.24.57:209][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.23-20.24.57:209][466]PIE: New page: PIE session: DefaultMap (23 Nov 2023, 20:24:57)
+[2023.11.23-20.24.57:210][466]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DefaultMap
+[2023.11.23-20.24.57:214][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004183s)
+[2023.11.23-20.24.57:214][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DefaultMap.DefaultMap to /Game/UEDPIE_0_DefaultMap.DefaultMap (0.004274s)
+[2023.11.23-20.24.57:214][466]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.23-20.24.57:214][466]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-20.24.57:215][466]LogAIModule: Creating AISystem for world DefaultMap
+[2023.11.23-20.24.57:215][466]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2023.11.23-20.24.57:260][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.11.23-20.24.57:261][466]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.11.23-20.24.57:261][466]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.23-20.24.57:261][466]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.23-20.24.57:261][466]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.23-20.24.57:261][466]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.23-20.24.57:261][466]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.23-20.24.57:261][466]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.23-20.24.57:261][466]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.23-20.24.57:261][466]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.23-20.24.57:262][466]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.23-20.24.57:262][466]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.23-20.24.57:262][466]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.23-20.24.57:266][466]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.23-20.24.57:566][466]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.11.23-20.24.57:566][466]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.23-20.24.57:566][466]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.23-20.24.57:566][466]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.23-20.24.57:567][466]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.11.23-20.24.57:567][466]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.11.23-20.24.57:569][466]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.11.23-20.24.57:569][466]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.11.23-20.24.57:569][466]LogInit: FAudioDevice initialized.
+[2023.11.23-20.24.57:569][466]LogAudio: Display: Audio Device (ID: 3) registered with world 'DefaultMap'.
+[2023.11.23-20.24.57:703][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-20.24.57:703][466]LogLoad: Game class is 'ShootingGallery_GMB_C'
+[2023.11.23-20.24.57:706][466]LogWorld: Bringing World /Game/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 60) at 2023.11.23-20.24.57
+[2023.11.23-20.24.57:706][466]LogWorld: Bringing up level for play took: 0.003375
+[2023.11.23-20.24.57:711][466]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.11.23-20.24.57:712][466]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.11.23-20.24.57:714][466]LogOutputDevice: Warning: 
+
+Script Stack (2 frames):
+ShootingGallery_PC_C.ExecuteUbergraph_ShootingGallery_PC
+ShootingGallery_PC_C.ReceiveBeginPlay
+
+[2023.11.23-20.24.57:931][466]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.218 s
+[2023.11.23-20.24.57:931][466]LogOutputDevice: Error: === Handled ensure: ===
+[2023.11.23-20.24.57:931][466]LogOutputDevice: Error: 
+[2023.11.23-20.24.57:931][466]LogOutputDevice: Error: Ensure condition failed: CursorWidget [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\GameViewportClient.cpp] [Line: 1054]
+[2023.11.23-20.24.57:931][466]LogOutputDevice: Error: 
+[2023.11.23-20.24.57:931][466]LogOutputDevice: Error: Stack: 
+[2023.11.23-20.24.57:931][466]LogOutputDevice: Error: [Callstack] 0x00007ffb1a147c92 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.23-20.24.57:931][466]LogOutputDevice: Error: [Callstack] 0x00007ffb1ae74d8f UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.23-20.24.57:931][466]LogOutputDevice: Error: [Callstack] 0x00007ffb1b8a3990 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.23-20.24.57:931][466]LogOutputDevice: Error: [Callstack] 0x00007ffb1fcfbc07 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.11.23-20.24.57:931][466]LogOutputDevice: Error: [Callstack] 0x00007ffb1ff0d8e7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.11.23-20.24.57:931][466]LogOutputDevice: Error: [Callstack] 0x00007ffb1ff22f31 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ffb1fef934e UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ffb1ff22b1f UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ffb1ff22f31 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ffb1ff22244 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ffb1fcfbc07 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ffb1ff21837 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ffb198603f4 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ffb1982a066 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ffb1ae42fac UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ffb19834fef UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ffb1b62cae2 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ffb1a169d11 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ffb1b556298 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ffb1a1245d5 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ffb177f9918 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ffb1782ece6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ffb177fa3c2 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ffb1784d4aa UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ffb17850cb7 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ffb178505a1 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ffb171edcf3 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ffb17b7aac6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ff7dd4382f6 UnrealEditor.exe!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ff7dd450d9c UnrealEditor.exe!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ff7dd450e8a UnrealEditor.exe!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ff7dd453c4d UnrealEditor.exe!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ff7dd465564 UnrealEditor.exe!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ff7dd468736 UnrealEditor.exe!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ffbcf6b7344 KERNEL32.DLL!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: [Callstack] 0x00007ffbcf9426b1 ntdll.dll!UnknownFunction []
+[2023.11.23-20.24.57:932][466]LogOutputDevice: Error: 
