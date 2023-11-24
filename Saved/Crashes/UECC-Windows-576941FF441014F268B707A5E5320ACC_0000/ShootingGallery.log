@@ -1,0 +1,1159 @@
+﻿Log file open, 11/24/23 10:52:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=17132)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ShootingGallery
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\aja7\Documents\GitHub\ShootingGallery\ShootingGallery.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.3570] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="e3eb57d54eb8104fb56b159b037a13f8"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.354638
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-576941FF441014F268B707A5E5320ACC
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.08 seconds
+LogConfig: Display: Loading Android ini files took 0.08 seconds
+LogConfig: Display: Loading Mac ini files took 0.09 seconds
+LogConfig: Display: Loading IOS ini files took 0.09 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.09 seconds
+LogConfig: Display: Loading Unix ini files took 0.11 seconds
+LogConfig: Display: Loading Windows ini files took 0.12 seconds
+LogConfig: Display: Loading TVOS ini files took 0.12 seconds
+LogConfig: Display: Loading Linux ini files took 0.14 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.14 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.3570] (), CPU: 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.11.24-10.52.57:802][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.11.24-10.52.57:802][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.11.24-10.52.57:802][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.11.24-10.52.57:803][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.11.24-10.52.57:803][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.11.24-10.52.57:803][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.11.24-10.52.57:803][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.11.24-10.52.57:803][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.11.24-10.52.57:803][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.11.24-10.52.57:803][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.11.24-10.52.57:803][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.11.24-10.52.57:803][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.11.24-10.52.57:803][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.11.24-10.52.57:803][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.11.24-10.52.57:803][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.11.24-10.52.57:803][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.11.24-10.52.57:803][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.11.24-10.52.57:803][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.11.24-10.52.57:803][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.11.24-10.52.57:803][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.11.24-10.52.57:809][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.11.24-10.52.57:809][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.11.24-10.52.57:810][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.11.24-10.52.57:810][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.11.24-10.52.57:810][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.11.24-10.52.57:810][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.11.24-10.52.57:810][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.11.24-10.52.57:810][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.11.24-10.52.57:810][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.11.24-10.52.57:810][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.11.24-10.52.57:810][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.11.24-10.52.57:833][  0]LogD3D12RHI: Aftermath initialized
+[2023.11.24-10.52.57:833][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.11.24-10.52.58:170][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3080 Laptop GPU (Max supported Feature Level 12_1, shader model 6.6)
+[2023.11.24-10.52.58:170][  0]LogD3D12RHI: Adapter has 8031MB of dedicated video memory, 0MB of dedicated system memory, and 16234MB of shared system memory, 1 output[s]
+[2023.11.24-10.52.58:220][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2023.11.24-10.52.58:220][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 16234MB of shared system memory, 0 output[s]
+[2023.11.24-10.52.58:229][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.11.24-10.52.58:229][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16234MB of shared system memory, 0 output[s]
+[2023.11.24-10.52.58:229][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.11.24-10.52.58:229][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.11.24-10.52.58:229][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.11.24-10.52.58:229][  0]LogHAL: Display: Platform has ~ 32 GB [34046742528 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.11.24-10.52.58:229][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.11.24-10.52.58:229][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.11.24-10.52.58:229][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.11.24-10.52.58:229][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.11.24-10.52.58:229][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/aja7/Documents/GitHub/ShootingGallery/Saved/Config/WindowsEditor/Editor.ini]
+[2023.11.24-10.52.58:229][  0]LogInit: Computer: LAP-N0132097
+[2023.11.24-10.52.58:229][  0]LogInit: User: aja7
+[2023.11.24-10.52.58:229][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.11.24-10.52.58:229][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.11.24-10.52.58:229][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2023.11.24-10.52.58:229][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.11.24-10.52.58:229][  0]LogMemory: Process Physical Memory: 294.51 MB used, 297.43 MB peak
+[2023.11.24-10.52.58:229][  0]LogMemory: Process Virtual Memory: 260.23 MB used, 260.23 MB peak
+[2023.11.24-10.52.58:229][  0]LogMemory: Physical Memory: 12655.89 MB used,  19813.62 MB free, 32469.50 MB total
+[2023.11.24-10.52.58:229][  0]LogMemory: Virtual Memory: 14129.79 MB used,  23203.71 MB free, 37333.50 MB total
+[2023.11.24-10.52.58:229][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.11.24-10.52.58:241][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.11.24-10.52.58:268][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.11.24-10.52.58:269][  0]LogInit: Using OS detected language (en-US).
+[2023.11.24-10.52.58:269][  0]LogInit: Using OS detected locale (en-GB).
+[2023.11.24-10.52.58:278][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.11.24-10.52.58:408][  0]LogInit: Setting process to per monitor DPI aware
+[2023.11.24-10.52.58:440][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.11.24-10.52.58:440][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2023.11.24-10.52.58:440][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.11.24-10.52.58:440][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - Touch Input Correction (TSF IME).
+[2023.11.24-10.52.58:441][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2023.11.24-10.52.58:466][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.11.24-10.52.58:466][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.11.24-10.52.58:699][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.11.24-10.52.58:704][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.11.24-10.52.58:704][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.11.24-10.52.58:800][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.11.24-10.52.58:800][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.11.24-10.52.58:800][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.11.24-10.52.58:800][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.11.24-10.52.58:800][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.11.24-10.52.58:800][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.11.24-10.52.58:800][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.11.24-10.52.58:800][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.11.24-10.52.58:800][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.11.24-10.52.58:800][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.11.24-10.52.58:800][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.11.24-10.52.58:800][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.11.24-10.52.58:800][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.11.24-10.52.58:800][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.11.24-10.52.58:800][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.11.24-10.52.58:800][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.11.24-10.52.58:825][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.11.24-10.52.58:829][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.11.24-10.52.58:837][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.11.24-10.52.58:858][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.11.24-10.52.58:858][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.11.24-10.52.58:961][  0]LogD3D12RHI:     GPU DeviceId: 0x249c (for the marketing name, search the web for "GPU Device Id")
+[2023.11.24-10.52.58:961][  0]LogWindows: Attached monitors:
+[2023.11.24-10.52.58:961][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1030), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.11.24-10.52.58:961][  0]LogWindows: Found 1 attached monitors.
+[2023.11.24-10.52.58:961][  0]LogWindows: EnumDisplayDevices:
+[2023.11.24-10.52.58:961][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.11.24-10.52.58:963][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.11.24-10.52.58:965][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.11.24-10.52.58:966][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3080 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.11.24-10.52.58:968][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3080 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.11.24-10.52.58:969][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3080 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.11.24-10.52.58:971][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3080 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.11.24-10.52.58:972][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.11.24-10.52.58:972][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3080 Laptop GPU
+[2023.11.24-10.52.58:972][  0]LogD3D12RHI:   Driver Version: 528.49 (internal:31.0.15.2849, unified:528.49)
+[2023.11.24-10.52.58:972][  0]LogD3D12RHI:      Driver Date: 2-2-2023
+[2023.11.24-10.52.58:972][  0]LogRHI: Texture pool is 4575 MB (70% of 6536 MB)
+[2023.11.24-10.52.58:972][  0]LogD3D12RHI: Async texture creation enabled
+[2023.11.24-10.52.58:972][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.11.24-10.52.58:981][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.11.24-10.52.58:992][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/aja7/Documents/GitHub/ShootingGallery/ShootingGallery.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/aja7/Documents/GitHub/ShootingGallery/Intermediate/TurnkeyReport_0.log" -log="C:/Users/aja7/Documents/GitHub/ShootingGallery/Intermediate/TurnkeyLog_0.log" -project="C:/Users/aja7/Documents/GitHub/ShootingGallery/ShootingGallery.uproject"  -platform=all'
+[2023.11.24-10.52.58:993][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/aja7/Documents/GitHub/ShootingGallery/ShootingGallery.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/aja7/Documents/GitHub/ShootingGallery/Intermediate/TurnkeyReport_0.log" -log="C:/Users/aja7/Documents/GitHub/ShootingGallery/Intermediate/TurnkeyLog_0.log" -project="C:/Users/aja7/Documents/GitHub/ShootingGallery/ShootingGallery.uproject"  -platform=all" ]
+[2023.11.24-10.52.59:037][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.11.24-10.52.59:050][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.11.24-10.52.59:050][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.11.24-10.52.59:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.11.24-10.52.59:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.11.24-10.52.59:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.11.24-10.52.59:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.11.24-10.52.59:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.11.24-10.52.59:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.11.24-10.52.59:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.11.24-10.52.59:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.11.24-10.52.59:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.11.24-10.52.59:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.11.24-10.52.59:111][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.11.24-10.52.59:111][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.11.24-10.52.59:118][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.11.24-10.52.59:118][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.11.24-10.52.59:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.11.24-10.52.59:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.11.24-10.52.59:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.11.24-10.52.59:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.11.24-10.52.59:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.11.24-10.52.59:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.11.24-10.52.59:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.11.24-10.52.59:134][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.11.24-10.52.59:134][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.11.24-10.52.59:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.11.24-10.52.59:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.11.24-10.52.59:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.11.24-10.52.59:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.11.24-10.52.59:146][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.11.24-10.52.59:161][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.11.24-10.52.59:167][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.11.24-10.52.59:167][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.11.24-10.52.59:167][  0]LogTargetPlatformManager:   ADPCM
+[2023.11.24-10.52.59:167][  0]LogTargetPlatformManager:   PCM
+[2023.11.24-10.52.59:172][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.11.24-10.52.59:173][  0]LogTargetPlatformManager:   BINKA
+[2023.11.24-10.52.59:173][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.11.24-10.52.59:173][  0]LogTargetPlatformManager:   OGG
+[2023.11.24-10.52.59:173][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.11.24-10.52.59:173][  0]LogTargetPlatformManager:   OPUS
+[2023.11.24-10.52.59:243][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.11.24-10.52.59:256][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.11.24-10.52.59:256][  0]LogTargetPlatformManager:   SF_METAL
+[2023.11.24-10.52.59:256][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.11.24-10.52.59:256][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.11.24-10.52.59:256][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.11.24-10.52.59:256][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.11.24-10.52.59:256][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.11.24-10.52.59:256][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.11.24-10.52.59:256][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.11.24-10.52.59:256][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.11.24-10.52.59:256][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.11.24-10.52.59:256][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.11.24-10.52.59:256][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.11.24-10.52.59:256][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.11.24-10.52.59:256][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.11.24-10.52.59:256][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.11.24-10.52.59:263][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.11.24-10.52.59:263][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.11.24-10.52.59:263][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.11.24-10.52.59:263][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.11.24-10.52.59:263][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.11.24-10.52.59:263][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.11.24-10.52.59:263][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.11.24-10.52.59:263][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.11.24-10.52.59:263][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.11.24-10.52.59:263][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.11.24-10.52.59:263][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.11.24-10.52.59:264][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.11.24-10.52.59:267][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.11.24-10.52.59:267][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.11.24-10.52.59:267][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.11.24-10.52.59:267][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.11.24-10.52.59:285][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.11.24-10.52.59:286][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.11.24-10.52.59:286][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.11.24-10.52.59:298][  0]LogDerivedDataCache: Speed tests for C:/Users/aja7/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.11.24-10.52.59:298][  0]LogDerivedDataCache: Display: Performance to C:/Users/aja7/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.09ms. RandomReadSpeed=347.29MBs, RandomWriteSpeed=112.12MBs. Assigned SpeedClass 'Local'
+[2023.11.24-10.52.59:299][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aja7/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.11.24-10.52.59:299][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.11.24-10.52.59:299][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.11.24-10.52.59:308][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.11.24-10.52.59:308][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.11.24-10.52.59:309][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Intermediate/Shaders/WorkingDirectory/12968/).
+[2023.11.24-10.52.59:309][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aja7/AppData/Local/Temp/UnrealShaderWorkingDir/602549B2427D345F12C72CA9A64790F4/'.
+[2023.11.24-10.52.59:309][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.11.24-10.52.59:310][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2023.11.24-10.53.00:728][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.11.24-10.53.00:728][  0]LogSlate: Using FreeType 2.10.0
+[2023.11.24-10.53.00:729][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.11.24-10.53.00:771][  0]LogAssetRegistry: FAssetRegistry took 0.0152 seconds to start up
+[2023.11.24-10.53.00:778][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.11.24-10.53.00:919][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.11.24-10.53.00:920][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.11.24-10.53.01:454][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.11.24-10.53.01:455][  0]LogDeviceProfileManager: Active device profile: [00000AFD72B77380][00000AFD67F95000 50] WindowsEditor
+[2023.11.24-10.53.01:455][  0]LogDeviceProfileManager: Profiles: [00000AFD72B76E40][00000AFD67F9A000 50] Windows, [00000AFD72B77380][00000AFD67F95000 50] WindowsEditor, [00000AFD72B763C0][00000AFD67F92800 50] WindowsServer, [00000AFD72B76AC0][00000AFD67E9A000 50] WindowsClient, [00000AFD72B732C0][00000AFD67F97800 50] IOS, [00000AFD72B76900][00000AFD72E40000 50] iPadAir2, [00000AFD72B76740][00000AFD72E47800 50] IPadPro, [00000AFD72B724C0][00000AFD72E45000 50] iPadAir3, [00000AFD72B76C80][00000AFD72E4A000 50] iPadAir4, [00000AFD72B73F00][00000AFD72E4C800 50] iPadMini4, [00000AFD72B76200][00000AFD4F725000 50] iPadMini5, [00000AFD72B72300][00000AFD72E50000 50] iPadMini6, [00000AFD72B79D80][00000AFD72E5A000 50] iPhone6S, [00000AFD72B7A100][00000AFD72E57800 50] iPhone7, [00000AFD72B7A480][00000AFD72E55000 50] iPodTouch7, [00000AFD72B75400][00000AFD72E5C800 50] iPhone6SPlus, [00000AFD72B79A00][00000AFD72E42800 50] iPhone7Plus, [00000AFD72B72680][00000AFD72E70000 50] iPhoneSE, [00000AFD72B75780][00000AFD72E75000 50] iPhone8, [00000AFD72B79840][00000AFD72E77800 50] iPhone8Plus, [00000AFD72B74440][00000AFD72E7A000 50] iPhoneX, [00000AFD72B75240][00000AFD72E7C800 50] iPhoneXS, [00000AFD72B79F40][00000AFD72E52800 50] iPhoneXSMax, [00000AFD72B7AB80][00000AFD72E10000 50] iPhoneXR, [00000AFD72B794C0][00000AFD72E15000 50] iPhone11, [00000AFD72B72840][00000AFD72E17800 50] iPhone11Pro, [00000AFD72B72A00][00000AFD72E1A000 50] iPhone11ProMax, [00000AFD72B78DC0][00000AFD72E1C800 50] iPhoneSE2, [00000AFD72B7A800][00000AFD72E72800 50] iPhone12Mini, [00000AFD72B771C0][00000AFD72E80000 50] iPhone12, [00000AFD72B72D80][00000AFD72E85000 50] iPhone12Pro, [00000AFD72B78A40][00000AFD72E87800 50] iPhone12ProMax, [00000AFD72B74280][00000AFD72E8A000 50] iPhone13Mini, [00000AFD72B79140][00000AFD72E8C800 50] iPhone13, [00000AFD72B77540][00000AFD72E12800 50] iPhone13Pro, [00000AFD72B78F80][00000AFD72EA0000 50] iPhone13ProMax, [00000AFD72B73480][00000AFD72EA5000 50] iPadPro105, [00000AFD72B78880][00000AFD72EA7800 50] iPadPro129, [00000AFD72B74EC0][00000AFD72EAA000 50] iPadPro97, [00000AFD72B74B40][00000AFD72EAC800 50] iPadPro2_129, [00000AFD72B78340][00000AFD72E82800 50] iPad5, [00000AFD72B75E80][00000AFD72E90000 50] iPad6, [00000AFD72B79BC0][00000AFD72E95000 50] iPad7, [00000AFD72B77A80][00000AFD72E97800 50] iPad8, [00000AFD72B76580][00000AFD72E9A000 50] iPad9, [00000AFD72B755C0][00000AFD72E9C800 50] iPadPro11, [00000AFD72B73B80][00000AFD72EA2800 50] iPadPro2_11, [00000AFD72B72BC0][00000AFD72EB0000 50] iPadPro3_11, [00000AFD72B73D40][00000AFD72EB5000 50] iPadPro3_129, [00000AFD72B77FC0][00000AFD72EB7800 50] iPadPro4_129, [00000AFD72B79300][00000AFD72EBA000 50] iPadPro5_129, [00000AFD72B77700][00000AFD72EBC800 50] AppleTV, [00000AFD72B72140][00000AFD72E92800 50] AppleTV4K, [00000AFD72B73800][00000AFD72ED0000 50] TVOS, [00000AFD72B7C400][00000AFD72ED7800 50] Mac, [00000AFD72B7C780][00000AFD72ED5000 50] MacEditor, [00000AFD72B74D00][00000AFD72EDA000 50] MacClient, [00000AFD72B786C0][00000AFD72EDC800 50] MacServer, [00000AFD72B7D040][00000AFD72F00000 50] Linux, [00000AFD72B7D3C0][00000AFD72F02800 50] LinuxEditor, [00000AFD72B7B600][00000AFD72F07800 50] LinuxArm64Editor, [00000AFD72B7CCC0][00000AFD72F0A000 50] LinuxArm64, [00000AFD72B7A2C0][00000AFD72F0C800 50] LinuxClient, [00000AFD72B7CB00][00000AFD72EB2800 50] LinuxArm64Client, [00000AFD72B74980][00000AFD72F05000 50] LinuxServer, [00000AFD72B740C0][00000AFD72EE0000 50] LinuxArm64Server, [00000AFD72B78500][00000AFD72EE5000 50] Android, [00000AFD72B73100][00000AFD72EE7800 50] Android_Preview_OpenGL, [00000AFD72B7B7C0][00000AFD72EEA000 50] Android_Preview_Vulkan, [00000AFD72B77C40][00000AFD72EEC800 50] Android_Low, [00000AFD72B7BEC0][00000AFD72ED2800 50] Android_Mid, [00000AFD72B7C940][00000AFD72EF0000 50] Android_High, [00000AFD72B7C5C0][00000AFD72EF5000 50] Android_Default, [00000AFD72B75CC0][00000AFD72EF7800 50] Android_Adreno4xx, [00000AFD72B75B00][00000AFD72EFA000 50] Android_Adreno5xx_Low, [00000AFD72B7C080][00000AFD72EFC800 50] Android_Adreno5xx, [00000AFD72B739C0][00000AFD72EE2800 50] Android_Adreno6xx, [00000AFD72B7B0C0][00000AFD72F10000 50] Android_Adreno6xx_Vulkan, [00000AFD72B7D900][00000AFD72F15000 50] Android_Adreno7xx, [00000AFD72B79680][00000AFD72F17800 50] Android_Adreno7xx_Vulkan, [00000AFD72B7BB40][00000AFD72F1A000 50] Android_Mali_T6xx, [00000AFD72B7AD40][00000AFD72F1C800 50] Android_Mali_T7xx, [00000AFD72B7D740][00000AFD72EF2800 50] Android_Mali_T8xx, [00000AFD72B72F40][00000AFD72F20000 50] Android_Mali_G71, [00000AFD72B7A9C0][00000AFD72F25000 50] Android_Mali_G72, [00000AFD72B778C0][00000AFD72F27800 50] Android_Mali_G72_Vulkan, [00000AFD72B7D580][00000AFD72F2A000 50] Android_Mali_G76, [00000AFD72B75940][00000AFD72F2C800 50] Android_Mali_G76_Vulkan, [00000AFD72B7D200][00000AFD72F12800 50] Android_Mali_G77, [00000AFD72B7B280][00000AFD72F30000 50] Android_Mali_G77_Vulkan, [00000AFD72B7C240][00000AFD72F35000 50] Android_Mali_G78, [00000AFD72B747C0][00000AFD72F37800 50] Android_Mali_G78_Vulkan, [00000AFD72B76040][00000AFD72F3A000 50] Android_Mali_G710, [00000AFD72B73640][00000AFD72F3C800 50] Android_Mali_G710_Vulkan, [00000AFD72B7DAC0][00000AFD72F22800 50] Android_Xclipse_920, [00000AFD72B7BD00][00000AFD72F40000 50] Android_Xclipse_920_Vulkan, [00000AFD72B7B440][00000AFD72F45000 50] Android_Vulkan_SM5, [00000AFD72B7DC80][00000AFD72F47800 50] Android_PowerVR_G6xxx, [00000AFD72B7E700][00000AFD72F4A000 50] Android_PowerVR_GT7xxx, [00000AFD72B77E00][00000AFD72F4C800 50] Android_PowerVR_GE8xxx, [00000AFD72B7AF00][00000AFD72F32800 50] Android_PowerVR_GM9xxx, [00000AFD72B7E8C0][00000AFD72F50000 50] Android_PowerVR_GM9xxx_Vulkan, [00000AFD72B7A640][00000AFD72F55000 50] Android_TegraK1, [00000AFD72B7EE00][00000AFD72F57800 50] Android_Unknown_Vulkan, [00000AFD72B7F340][00000AFD72F5A000 50] Oculus_Quest, [00000AFD72B74600][00000AFD72F5C800 50] Oculus_Quest2, [00000AFD72B7FA40][00000AFD72F42800 50] HoloLens, 
+[2023.11.24-10.53.01:455][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.11.24-10.53.01:457][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.11.24-10.53.01:457][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.11.24-10.53.01:457][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.11.24-10.53.01:457][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.11.24-10.53.01:457][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.18362.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.11.24-10.53.01:481][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.11.24-10.53.01:673][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.11.24-10.53.01:673][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.11.24-10.53.01:673][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.11.24-10.53.01:673][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.11.24-10.53.01:674][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.11.24-10.53.01:698][  0]LogNetVersion: ShootingGallery 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1183880198)
+[2023.11.24-10.53.01:838][  0]LogSlate: Border
+[2023.11.24-10.53.01:838][  0]LogSlate: BreadcrumbButton
+[2023.11.24-10.53.01:838][  0]LogSlate: Default
+[2023.11.24-10.53.01:838][  0]LogSlate: Icons.Save
+[2023.11.24-10.53.01:838][  0]LogSlate: Icons.Toolbar.Settings
+[2023.11.24-10.53.01:838][  0]LogSlate: ListView
+[2023.11.24-10.53.01:838][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.11.24-10.53.01:838][  0]LogSlate: SoftwareCursor_Grab
+[2023.11.24-10.53.01:838][  0]LogSlate: TableView.DarkRow
+[2023.11.24-10.53.01:838][  0]LogSlate: TableView.Row
+[2023.11.24-10.53.01:838][  0]LogSlate: TreeView
+[2023.11.24-10.53.02:054][  0]SourceControl: Source control is disabled
+[2023.11.24-10.53.02:082][  0]SourceControl: Source control is disabled
+[2023.11.24-10.53.02:082][  0]SourceControl: Source control is disabled
+[2023.11.24-10.53.02:198][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.11.24-10.53.02:198][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.11.24-10.53.02:198][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.11.24-10.53.02:519][  0]LogPython: Using Python 3.9.7
+[2023.11.24-10.53.03:260][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 411F1AB34A116D39067FBA853EED3ACF | Instance: EE27E9DB47D9F3B25BDE81B028A177A9 (LAP-N0132097-12968).
+[2023.11.24-10.53.03:471][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.11.24-10.53.03:477][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.11.24-10.53.03:594][  0]SourceControl: Source control is disabled
+[2023.11.24-10.53.03:599][  0]SourceControl: Source control is disabled
+[2023.11.24-10.53.03:619][  0]SourceControl: Source control is disabled
+[2023.11.24-10.53.03:634][  0]LogUProjectInfo: Found projects:
+[2023.11.24-10.53.03:871][  0]LogOpenImageDenoise: OIDN starting up
+[2023.11.24-10.53.04:222][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.11.24-10.53.04:255][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.11.24-10.53.04:256][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.11.24-10.53.04:460][  0]LogCollectionManager: Loaded 0 collections in 0.002628 seconds
+[2023.11.24-10.53.04:518][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aja7/Documents/GitHub/ShootingGallery/Saved/Collections/' took 0.00s
+[2023.11.24-10.53.04:518][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aja7/Documents/GitHub/ShootingGallery/Content/Developers/aja7/Collections/' took 0.00s
+[2023.11.24-10.53.04:518][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aja7/Documents/GitHub/ShootingGallery/Content/Collections/' took 0.00s
+[2023.11.24-10.53.04:877][  0]LogEngine: Initializing Engine...
+[2023.11.24-10.53.04:891][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.11.24-10.53.04:893][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.11.24-10.53.05:163][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.11.24-10.53.05:164][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.24-10.53.05:176][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.24-10.53.05:206][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.11.24-10.53.05:207][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.11.24-10.53.05:234][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.11.24-10.53.05:235][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.11.24-10.53.05:235][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.11.24-10.53.05:236][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.11.24-10.53.05:236][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.11.24-10.53.05:236][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.24-10.53.05:236][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.24-10.53.05:236][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.24-10.53.05:236][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.24-10.53.05:236][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.24-10.53.05:236][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.24-10.53.05:236][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.24-10.53.05:236][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.24-10.53.05:236][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.24-10.53.05:236][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.24-10.53.05:236][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.24-10.53.05:251][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.24-10.53.05:814][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.11.24-10.53.05:815][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.24-10.53.05:818][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.24-10.53.05:818][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.24-10.53.05:819][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.11.24-10.53.05:819][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.24-10.53.05:820][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.24-10.53.05:820][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.11.24-10.53.05:820][  0]LogInit: FAudioDevice initialized.
+[2023.11.24-10.53.05:820][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.11.24-10.53.05:820][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.11.24-10.53.05:820][  0]LogInit: Texture streaming: Enabled
+[2023.11.24-10.53.05:855][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.11.24-10.53.05:870][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.11.24-10.53.05:870][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={91F2D0B5-4943-FC2A-50F3-AE985641596B}
+[2023.11.24-10.53.05:942][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.11.24-10.53.05:951][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.11.24-10.53.05:951][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.11.24-10.53.08:489][  0]LogLiveCoding: Display: First instance in process group "UE_ShootingGallery_0xb8571a06", spawning console
+[2023.11.24-10.53.08:489][  0]LogLiveCoding: Display: Waiting for server
+[2023.11.24-10.53.08:489][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.11.24-10.53.08:525][  0]LogInit: Transaction tracking system initialized
+[2023.11.24-10.53.08:597][  0]BlueprintLog: New page: Editor Load
+[2023.11.24-10.53.08:805][  0]LocalizationService: Localization service is disabled
+[2023.11.24-10.53.08:857][  0]TimingProfiler: Initialize
+[2023.11.24-10.53.08:857][  0]TimingProfiler: OnSessionChanged
+[2023.11.24-10.53.08:857][  0]LoadingProfiler: Initialize
+[2023.11.24-10.53.08:857][  0]LoadingProfiler: OnSessionChanged
+[2023.11.24-10.53.08:857][  0]NetworkingProfiler: Initialize
+[2023.11.24-10.53.08:857][  0]NetworkingProfiler: OnSessionChanged
+[2023.11.24-10.53.08:857][  0]MemoryProfiler: Initialize
+[2023.11.24-10.53.08:857][  0]MemoryProfiler: OnSessionChanged
+[2023.11.24-10.53.09:658][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aja7/Documents/GitHub/ShootingGallery/Content/' took 0.01s
+[2023.11.24-10.53.09:658][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.11.24-10.53.09:741][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.11.24-10.53.09:744][  0]SourceControl: Source control is disabled
+[2023.11.24-10.53.09:902][  0]LogSlate: Took 0.000422 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.11.24-10.53.11:954][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2023.11.24-10.53.11:955][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2023.11.24-10.53.11:958][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2023.11.24-10.53.11:964][  0]LogUnrealEdMisc: Loading editor; pre map load, took 16.643
+[2023.11.24-10.53.11:965][  0]Cmd: MAP LOAD FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/DefaultMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.11.24-10.53.11:965][  0]LightingResults: New page: Lighting Build
+[2023.11.24-10.53.11:973][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.11.24-10.53.11:973][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.24-10.53.11:973][  0]MapCheck: New page: Map Check
+[2023.11.24-10.53.11:973][  0]LightingResults: New page: Lighting Build
+[2023.11.24-10.53.11:979][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.24-10.53.11:982][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.11.24-10.53.12:012][  0]LogLinker: Warning: [AssetLog] C:\Users\aja7\Documents\GitHub\ShootingGallery\Content\DefaultMap.umap: Failed to load '/Game/NewBlueprint': Can't find file.
+[2023.11.24-10.53.12:013][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/NewBlueprint'
+[2023.11.24-10.53.12:072][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'DefaultMap'.
+[2023.11.24-10.53.12:072][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.24-10.53.12:073][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.24-10.53.12:073][  0]LogAIModule: Creating AISystem for world DefaultMap
+[2023.11.24-10.53.12:076][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.24-10.53.12:094][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.11.24-10.53.12:094][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.24-10.53.12:095][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.365ms to complete.
+[2023.11.24-10.53.12:095][  0]LogFileHelpers: Loading map 'DefaultMap' took 0.130
+[2023.11.24-10.53.12:110][  0]LogUnrealEdMisc: Total Editor Startup Time, took 16.789
+[2023.11.24-10.53.12:110][  0]LogShaderCompilers: Display: ================================================
+[2023.11.24-10.53.12:110][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.24-10.53.12:110][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.11.24-10.53.12:110][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.11.24-10.53.12:110][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.11.24-10.53.12:110][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.24-10.53.12:110][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.11.24-10.53.12:110][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.11.24-10.53.12:110][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.11.24-10.53.12:110][  0]LogShaderCompilers: Display: ================================================
+[2023.11.24-10.53.12:166][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.24-10.53.12:170][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.24-10.53.12:174][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.24-10.53.12:178][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.24-10.53.12:224][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.11.24-10.53.12:224][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.24-10.53.12:225][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.11.24-10.53.12:225][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.24-10.53.12:226][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.11.24-10.53.12:226][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.24-10.53.12:227][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.11.24-10.53.12:227][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.24-10.53.12:228][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.11.24-10.53.12:228][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.24-10.53.12:229][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.11.24-10.53.12:229][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.24-10.53.12:230][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.11.24-10.53.12:230][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.24-10.53.12:231][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.11.24-10.53.12:231][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.24-10.53.12:232][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.11.24-10.53.12:232][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.24-10.53.12:233][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.11.24-10.53.12:233][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.24-10.53.12:233][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.11.24-10.53.12:440][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.11.24-10.53.12:519][  0]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2023.11.24-10.53.12:917][  0]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.11.24-10.53.12:918][  0]LogSlate: Took 0.000324 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.11.24-10.53.12:941][  0]LogViewport: Scene viewport resized to 1462x858, mode Windowed.
+[2023.11.24-10.53.13:656][  0]LogStall: Startup...
+[2023.11.24-10.53.13:657][  0]LogStall: Startup complete.
+[2023.11.24-10.53.13:692][  0]LogLoad: (Engine Initialization) Total time: 18.37 seconds
+[2023.11.24-10.53.13:693][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.11.24-10.53.13:706][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Arrow': NewBlueprint_C /Game/DefaultMap.DefaultMap:PersistentLevel.NewBlueprint_C_3
+[2023.11.24-10.53.13:706][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CollisionCylinder': NewBlueprint_C /Game/DefaultMap.DefaultMap:PersistentLevel.NewBlueprint_C_3
+[2023.11.24-10.53.13:706][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharMoveComp': NewBlueprint_C /Game/DefaultMap.DefaultMap:PersistentLevel.NewBlueprint_C_3
+[2023.11.24-10.53.13:706][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharacterMesh0': NewBlueprint_C /Game/DefaultMap.DefaultMap:PersistentLevel.NewBlueprint_C_3
+[2023.11.24-10.53.13:793][  0]LogAssetRegistry: Asset discovery search completed in 13.0232 seconds
+[2023.11.24-10.53.13:803][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.11.24-10.53.13:821][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.11.24-10.53.13:915][  0]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.11.24-10.53.14:025][  2]LogNavigationDataBuild: Navigation data generation finished in /Game/DefaultMap.
+[2023.11.24-10.53.18:254][312]LogSlate: Window 'Message Log' being destroyed
+[2023.11.24-10.53.18:258][312]LogSlate: Window 'Message Log' being destroyed
+[2023.11.24-10.53.22:575][818]LogSlate: Took 0.000569 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.11.24-10.53.22:580][818]LogSlate: Took 0.000357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.11.24-10.53.39:505][746]LogAssetEditorSubsystem: Opening Asset editor for EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-10.53.39:597][746]LogSlate: Took 0.000426 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.11.24-10.53.47:153][583]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.24-10.53.55:549][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-10.53.55:554][536]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.005579 seconds
+[2023.11.24-10.53.55:556][536]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-10.53.55:557][536]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpot516662DE4E73E57F02E1F9BB41608243.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-10.53.55:566][536]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-10.53.55:567][536]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-10.53.57:041][689]LogSlate: Window 'FindNearbyShootingSpot' being destroyed
+[2023.11.24-10.53.58:830][859]LogSkeletalMesh: Display: [AssetLog] C:\Users\aja7\Documents\GitHub\ShootingGallery\Content\SkeletonCrew\Skeleton_Swordman\Character\Skeleton_Swordman.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2023.11.24-10.54.32:622][633]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.24-10.54.32:623][633]LogEditorClassViewer: Warning: Class /Game/Player/PlayerHealth_W.PLACEHOLDER-CLASS__PlayerHealthHeart_W_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.24-10.54.32:623][633]LogEditorClassViewer: Warning: Class /Game/Player/ShootingGallery_PC.PLACEHOLDER-CLASS__PlayerHealth_W_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.24-10.54.32:623][633]LogEditorClassViewer: Warning: Class /Game/Player/ShootingGallery_PC.PLACEHOLDER-CLASS__Spawner_C_1 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.24-10.54.32:623][633]LogEditorClassViewer: Warning: Class /Game/Player/ShootingGallery_PC.PLACEHOLDER-CLASS__Projectile_C_2 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.24-10.54.32:623][633]LogEditorClassViewer: Warning: Class /Game/System/Target_C.PLACEHOLDER-CLASS__ShootingInterface_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.24-10.54.32:623][633]LogEditorClassViewer: Warning: Class /Game/SkeletonCrew/Skeleton_Swordman/SkelSword_C.PLACEHOLDER-CLASS__Target_C_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.24-10.54.32:623][633]LogEditorClassViewer: Warning: Class /Game/SkeletonCrew/Skeleton_Swordman/SkelSword_C.PLACEHOLDER-CLASS__ShootingGallery_PC_C_1 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.24-10.54.32:623][633]LogEditorClassViewer: Warning: Class /Game/SkeletonCrew/Skeleton_Swordman/SkelSword_C.PLACEHOLDER-CLASS__ShootingInterface_C_2 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.24-10.54.43:775][633]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.11.24-10.54.43:797][633]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.11.24-10.54.43:801][633]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.11.24-10.54.43:809][634]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.11.24-10.54.44:977][742]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2023.11.24-10.54.44:983][742]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/NewBlueprint.
+[2023.11.24-10.54.44:983][742]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.11.24-10.54.49:997][305]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/NewBlueprint.NewBlueprint_C
+[2023.11.24-10.54.49:997][305]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/NewBlueprint.NewBlueprint_C
+[2023.11.24-10.54.49:999][305]LogActorFactory: Actor Factory spawned Blueprint /Game/NewBlueprint.NewBlueprint as actor: NewBlueprint_C /Game/DefaultMap.DefaultMap:PersistentLevel.NewBlueprint_C_0
+[2023.11.24-10.54.49:999][305]LogActorFactory: Actor Factory spawned Blueprint /Game/NewBlueprint.NewBlueprint as actor: NewBlueprint_C /Game/DefaultMap.DefaultMap:PersistentLevel.NewBlueprint_C_0
+[2023.11.24-10.54.51:199][438]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/NewBlueprint.NewBlueprint_C
+[2023.11.24-10.54.51:199][438]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/NewBlueprint.NewBlueprint_C
+[2023.11.24-10.54.51:200][438]LogActorFactory: Actor Factory spawned Blueprint /Game/NewBlueprint.NewBlueprint as actor: NewBlueprint_C /Game/DefaultMap.DefaultMap:PersistentLevel.NewBlueprint_C_1
+[2023.11.24-10.54.51:201][438]LogActorFactory: Actor Factory spawned Blueprint /Game/NewBlueprint.NewBlueprint as actor: NewBlueprint_C /Game/DefaultMap.DefaultMap:PersistentLevel.NewBlueprint_C_1
+[2023.11.24-10.55.00:295][491]LogDerivedDataCache: C:/Users/aja7/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.990 and deleted 0 file(s) with total size 0 MiB.
+[2023.11.24-10.55.02:437][731]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.11.24-10.55.03:217][822]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.11.24-10.55.05:752][107]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.11.24-10.55.17:888][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-10.55.17:891][397]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-10.55.17:892][397]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpot34C66A5A4348895016614CAF664A2D7B.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-10.55.17:903][397]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-10.55.17:903][397]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-10.55.36:931][464]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DummyPlayerActor.DummyPlayerActor
+[2023.11.24-10.55.36:931][464]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.24-10.55.40:967][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DummyPlayerActor" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/DummyPlayerActor.uasset" SILENT=true
+[2023.11.24-10.55.40:971][788]LogSavePackage: Moving output files for package: /Game/DummyPlayerActor
+[2023.11.24-10.55.40:973][788]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/DummyPlayerActor4B407F3744B62496D5949A9E0DC0D7EE.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/DummyPlayerActor.uasset'
+[2023.11.24-10.55.40:987][788]AssetCheck: New page: Asset Save: DummyPlayerActor
+[2023.11.24-10.55.40:987][788]LogContentValidation: Display: Validating Blueprint /Game/DummyPlayerActor.DummyPlayerActor
+[2023.11.24-10.55.55:934][511]LogNavigationDataBuild: Navigation data generation finished in /Game/DefaultMap.
+[2023.11.24-10.56.04:615][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DummyPlayerActor" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/DummyPlayerActor.uasset" SILENT=true
+[2023.11.24-10.56.04:619][512]LogSavePackage: Moving output files for package: /Game/DummyPlayerActor
+[2023.11.24-10.56.04:620][512]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/DummyPlayerActor467D1BE04BD31085E57808AF2537FA2A.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/DummyPlayerActor.uasset'
+[2023.11.24-10.56.04:633][512]AssetCheck: New page: Asset Save: DummyPlayerActor
+[2023.11.24-10.56.04:633][512]LogContentValidation: Display: Validating Blueprint /Game/DummyPlayerActor.DummyPlayerActor
+[2023.11.24-10.56.07:531][851]BlueprintLog: New page: Compile DummyPlayerActor
+[2023.11.24-10.56.07:573][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.11.24-10.56.07:626][852]LogNavigationDataBuild: Navigation data generation finished in /Game/DefaultMap.
+[2023.11.24-10.56.36:412][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-10.56.36:414][ 73]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-10.56.36:415][ 73]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpot7CDB826E4B729D163A4020B7486E6E2A.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-10.56.36:432][ 73]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-10.56.36:432][ 73]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-10.56.46:727][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-10.56.46:729][148]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-10.56.46:730][148]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpotB76B42364101C3C0320ABDA3F5DD87E1.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-10.56.46:740][148]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-10.56.46:740][148]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-10.56.57:104][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-10.56.57:106][250]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-10.56.57:107][250]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpot9059F68C4917C13FE0B942BB3486EAA8.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-10.56.57:116][250]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-10.56.57:116][250]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-10.57.04:217][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-10.57.04:219][ 16]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-10.57.04:220][ 16]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpot22D36D8840CE73976F6529A3B93E5C58.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-10.57.04:234][ 16]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-10.57.04:234][ 16]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-10.57.18:608][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-10.57.18:610][505]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-10.57.18:611][505]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpot365F48A24362BA4CB42C399F571B5F00.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-10.57.18:625][505]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-10.57.18:626][505]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-10.57.35:300][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-10.57.35:302][312]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-10.57.35:303][312]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpot1E456D5140E340FD7E2CF693C6120606.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-10.57.35:314][312]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-10.57.35:314][312]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-10.57.48:252][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-10.57.48:254][690]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-10.57.48:255][690]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpot77F36A69457C80509C602A920D36D9E1.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-10.57.48:277][690]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-10.57.48:277][690]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-10.58.02:451][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-10.58.02:453][124]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-10.58.02:455][124]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpot3528071F4B0905C7D22879B9BF711079.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-10.58.02:463][124]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-10.58.02:463][124]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-10.58.08:774][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-10.58.08:776][577]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-10.58.08:777][577]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpotD5E9F99245D55D46F2BDCB9266F696F3.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-10.58.08:788][577]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-10.58.08:788][577]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-10.58.13:892][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-10.58.13:893][ 14]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-10.58.13:895][ 14]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpot24658A1E4C481962EDC687A1E49034BA.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-10.58.13:904][ 14]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-10.58.13:904][ 14]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-10.58.18:406][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-10.58.18:407][407]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-10.58.18:409][407]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpot8B91CE7446C900278B98878B8A019CDE.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-10.58.18:420][407]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-10.58.18:420][407]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-10.59.04:589][250]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.24-10.59.13:409][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-10.59.13:411][285]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-10.59.13:412][285]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpotD59A4D62448D23317671229446C78573.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-10.59.13:428][285]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-10.59.13:428][285]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-10.59.30:675][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-10.59.30:677][362]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-10.59.30:678][362]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpotE7648E054FD78E3C85E4C98EB763EAC5.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-10.59.30:689][362]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-10.59.30:689][362]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-10.59.36:099][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-10.59.36:101][815]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-10.59.36:102][815]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpot3472A614485B02DB3EA2B78A0C7A6F95.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-10.59.36:112][815]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-10.59.36:112][815]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-10.59.51:843][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-10.59.51:845][528]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-10.59.51:846][528]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpot83A31B51458210339DE4A19B8E82B96B.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-10.59.51:868][528]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-10.59.51:868][528]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-11.00.07:919][357]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerQueryBase.PlayerQueryBase
+[2023.11.24-11.00.07:919][357]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.24-11.00.31:281][ 38]BlueprintLog: New page: Compile PlayerQueryBase
+[2023.11.24-11.00.31:310][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.11.24-11.00.31:830][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerQueryBase" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/PlayerQueryBase.uasset" SILENT=true
+[2023.11.24-11.00.31:834][ 91]LogSavePackage: Moving output files for package: /Game/PlayerQueryBase
+[2023.11.24-11.00.31:835][ 91]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/PlayerQueryBase7A57E753454BEC89329BC7B4ECEF1F2B.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/PlayerQueryBase.uasset'
+[2023.11.24-11.00.31:849][ 91]AssetCheck: New page: Asset Save: PlayerQueryBase
+[2023.11.24-11.00.31:849][ 91]LogContentValidation: Display: Validating Blueprint /Game/PlayerQueryBase.PlayerQueryBase
+[2023.11.24-11.00.50:113][607]BlueprintLog: New page: Compile PlayerQueryBase
+[2023.11.24-11.00.50:140][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.11.24-11.00.50:622][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerQueryBase" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/PlayerQueryBase.uasset" SILENT=true
+[2023.11.24-11.00.50:626][655]LogSavePackage: Moving output files for package: /Game/PlayerQueryBase
+[2023.11.24-11.00.50:627][655]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/PlayerQueryBaseB070670D4CAD1A112BCD149B16897EDE.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/PlayerQueryBase.uasset'
+[2023.11.24-11.00.50:640][655]AssetCheck: New page: Asset Save: PlayerQueryBase
+[2023.11.24-11.00.50:640][655]LogContentValidation: Display: Validating Blueprint /Game/PlayerQueryBase.PlayerQueryBase
+[2023.11.24-11.01.14:428][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-11.01.14:430][ 50]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-11.01.14:431][ 50]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpot09E05DB241265BD9E5D2B394F3D85B13.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-11.01.14:441][ 50]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-11.01.14:441][ 50]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-11.01.16:601][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DefaultMap" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/DefaultMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.24-11.01.16:627][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.11.24-11.01.16:640][153]LogSavePackage: Moving output files for package: /Game/DefaultMap
+[2023.11.24-11.01.16:641][153]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/DefaultMap956AF25846CDC428A0BB159579C28B65.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/DefaultMap.umap'
+[2023.11.24-11.01.16:650][153]LogFileHelpers: No new changes to save!
+[2023.11.24-11.01.16:665][153]AssetCheck: New page: Asset Save: DefaultMap
+[2023.11.24-11.01.16:665][153]LogContentValidation: Display: Validating World /Game/DefaultMap.DefaultMap
+[2023.11.24-11.01.24:747][  7]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.24-11.01.27:532][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-11.01.27:534][320]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-11.01.27:535][320]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpot71A60BAA410BD33A1735CBA99FBC30DE.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-11.01.27:543][320]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-11.01.27:544][320]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-11.01.29:170][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DefaultMap" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/DefaultMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.24-11.01.29:196][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.11.24-11.01.29:207][423]LogSavePackage: Moving output files for package: /Game/DefaultMap
+[2023.11.24-11.01.29:208][423]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/DefaultMap67F799D84066D16202AC44BF538A826D.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/DefaultMap.umap'
+[2023.11.24-11.01.29:217][423]LogFileHelpers: No new changes to save!
+[2023.11.24-11.01.29:228][423]AssetCheck: New page: Asset Save: DefaultMap
+[2023.11.24-11.01.29:228][423]LogContentValidation: Display: Validating World /Game/DefaultMap.DefaultMap
+[2023.11.24-11.01.37:487][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-11.01.37:489][121]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-11.01.37:490][121]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpotDF7FCBB04FCFA868829C76BF7B494A5C.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-11.01.37:502][121]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-11.01.37:502][121]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-11.01.38:746][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DefaultMap" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/DefaultMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.24-11.01.38:773][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.11.24-11.01.38:784][233]LogSavePackage: Moving output files for package: /Game/DefaultMap
+[2023.11.24-11.01.38:785][233]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/DefaultMap0585E30C43338F97EF6B7BA384A76CD3.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/DefaultMap.umap'
+[2023.11.24-11.01.38:793][233]LogFileHelpers: No new changes to save!
+[2023.11.24-11.01.38:805][233]AssetCheck: New page: Asset Save: DefaultMap
+[2023.11.24-11.01.38:805][233]LogContentValidation: Display: Validating World /Game/DefaultMap.DefaultMap
+[2023.11.24-11.01.59:497][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-11.01.59:499][576]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-11.01.59:500][576]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpotBF7078624FED3B4CF5B51A85DD684A53.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-11.01.59:511][576]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-11.01.59:511][576]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-11.02.06:914][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-11.02.06:915][378]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-11.02.06:916][378]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpot4A475C1D436CE69B0E96D3BE2639B6A5.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-11.02.06:926][378]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-11.02.06:926][378]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-11.02.57:808][ 37]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.065634 second (limit is 0.010000 second)
+[2023.11.24-11.02.59:981][283]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.068577 second (limit is 0.010000 second)
+[2023.11.24-11.03.00:059][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-11.03.00:061][283]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-11.03.00:063][283]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpot12552F504DD3053DB1F14BA4FEF89CA6.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-11.03.00:074][283]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-11.03.00:074][283]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-11.06.35:514][288]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.069449 second (limit is 0.010000 second)
+[2023.11.24-11.06.53:064][362]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.065948 second (limit is 0.010000 second)
+[2023.11.24-11.06.58:948][ 52]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.067382 second (limit is 0.010000 second)
+[2023.11.24-11.07.01:267][308]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.070512 second (limit is 0.010000 second)
+[2023.11.24-11.07.02:894][491]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.069797 second (limit is 0.010000 second)
+[2023.11.24-11.07.02:953][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-11.07.02:955][491]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-11.07.02:957][491]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpot18FB65654276466A19EC27B3B2DC4A8E.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-11.07.02:969][491]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-11.07.02:969][491]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-11.07.10:157][715]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.071718 second (limit is 0.010000 second)
+[2023.11.24-11.07.12:896][801]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.071463 second (limit is 0.010000 second)
+[2023.11.24-11.07.30:466][573]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.077304 second (limit is 0.010000 second)
+[2023.11.24-11.07.34:834][655]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.074175 second (limit is 0.010000 second)
+[2023.11.24-11.07.41:037][237]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.069904 second (limit is 0.010000 second)
+[2023.11.24-11.07.42:897][446]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.069906 second (limit is 0.010000 second)
+[2023.11.24-11.07.42:967][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-11.07.42:968][446]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-11.07.42:969][446]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpot64695AF04623F798CF10ADAD64C84156.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-11.07.42:990][446]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-11.07.42:991][446]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-11.07.46:401][568]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.073471 second (limit is 0.010000 second)
+[2023.11.24-11.07.54:591][714]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.080141 second (limit is 0.010000 second)
+[2023.11.24-11.08.01:430][220]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.069787 second (limit is 0.010000 second)
+[2023.11.24-11.08.06:626][812]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.072657 second (limit is 0.010000 second)
+[2023.11.24-11.08.10:535][260]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.075249 second (limit is 0.010000 second)
+[2023.11.24-11.08.10:603][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-11.08.10:605][260]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-11.08.10:606][260]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpot345115AD43B2EFB90C03DF859F0068B2.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-11.08.10:630][260]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-11.08.10:630][260]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-11.08.18:843][477]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.077588 second (limit is 0.010000 second)
+[2023.11.24-11.08.21:233][534]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.074777 second (limit is 0.010000 second)
+[2023.11.24-11.08.24:527][612]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.079952 second (limit is 0.010000 second)
+[2023.11.24-11.08.27:942][690]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.075298 second (limit is 0.010000 second)
+[2023.11.24-11.08.31:288][769]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.079298 second (limit is 0.010000 second)
+[2023.11.24-11.08.33:904][831]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.075494 second (limit is 0.010000 second)
+[2023.11.24-11.08.36:065][882]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.076613 second (limit is 0.010000 second)
+[2023.11.24-11.08.41:683][ 45]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.074754 second (limit is 0.010000 second)
+[2023.11.24-11.08.43:690][108]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.072672 second (limit is 0.010000 second)
+[2023.11.24-11.08.50:754][356]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.075578 second (limit is 0.010000 second)
+[2023.11.24-11.08.52:817][397]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.075185 second (limit is 0.010000 second)
+[2023.11.24-11.08.56:613][477]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.073106 second (limit is 0.010000 second)
+[2023.11.24-11.09.00:187][549]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.079492 second (limit is 0.010000 second)
+[2023.11.24-11.09.09:474][779]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.074464 second (limit is 0.010000 second)
+[2023.11.24-11.09.11:487][821]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.074725 second (limit is 0.010000 second)
+[2023.11.24-11.09.17:243][291]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.066293 second (limit is 0.010000 second)
+[2023.11.24-11.09.18:670][447]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.068514 second (limit is 0.010000 second)
+[2023.11.24-11.09.22:404][873]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.070447 second (limit is 0.010000 second)
+[2023.11.24-11.09.23:846][ 32]LogEQS: Warning: Query FindNearbyShootingSpot_AllMatching is over generation time warning. 0.071740 second (limit is 0.010000 second)
+[2023.11.24-11.09.23:898][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-11.09.23:900][ 32]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-11.09.23:901][ 32]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpotA6220D124CD09F3258395EBA533787D1.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-11.09.23:931][ 32]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-11.09.23:931][ 32]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-11.09.33:192][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-11.09.33:194][881]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-11.09.33:196][881]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpotC0329A1A49A7CBE9E947CAB1D650812A.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-11.09.33:209][881]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-11.09.33:209][881]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-11.10.26:873][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-11.10.26:875][ 51]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-11.10.26:876][ 51]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpot21F470C94FD703B74B64078882F0E575.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-11.10.26:886][ 51]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-11.10.26:886][ 51]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-11.10.43:387][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-11.10.43:389][600]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-11.10.43:390][600]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpotE458D94C48843DD3D47340AA12BBB2F4.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-11.10.43:400][600]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-11.10.43:400][600]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-11.11.05:657][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-11.11.05:659][460]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-11.11.05:660][460]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpotBF77B88640B1764E693A8D9C7B046630.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-11.11.05:669][460]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-11.11.05:669][460]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-11.11.16:000][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-11.11.16:003][375]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-11.11.16:004][375]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpot3AD0F6DE476E61D32A1E9E8BC042DDAF.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-11.11.16:014][375]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-11.11.16:014][375]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-11.11.21:216][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-11.11.21:218][873]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-11.11.21:219][873]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpot3B0DDFDF47BE1E36F0C65B8AC11913DF.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-11.11.21:228][873]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-11.11.21:228][873]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-11.11.42:594][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-11.11.42:596][227]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-11.11.42:597][227]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpot660EAB384988535992D0A69B77CE19B9.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-11.11.42:610][227]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-11.11.42:610][227]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-11.12.05:605][129]BlueprintLog: New page: Compile PlayerQueryBase
+[2023.11.24-11.12.05:638][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.11.24-11.12.06:416][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerQueryBase" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/PlayerQueryBase.uasset" SILENT=true
+[2023.11.24-11.12.06:419][211]LogSavePackage: Moving output files for package: /Game/PlayerQueryBase
+[2023.11.24-11.12.06:420][211]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/PlayerQueryBase3C7517044C4ACF5F6CEBE5A588899763.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/PlayerQueryBase.uasset'
+[2023.11.24-11.12.06:430][211]AssetCheck: New page: Asset Save: PlayerQueryBase
+[2023.11.24-11.12.06:430][211]LogContentValidation: Display: Validating Blueprint /Game/PlayerQueryBase.PlayerQueryBase
+[2023.11.24-11.12.10:749][618]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.24-11.12.13:274][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FindNearbyShootingSpot" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset" SILENT=true
+[2023.11.24-11.12.13:276][905]LogSavePackage: Moving output files for package: /Game/FindNearbyShootingSpot
+[2023.11.24-11.12.13:277][905]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/FindNearbyShootingSpotF92FAD5E44770BB0BD644B875FD04B4F.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/FindNearbyShootingSpot.uasset'
+[2023.11.24-11.12.13:288][905]AssetCheck: New page: Asset Save: FindNearbyShootingSpot
+[2023.11.24-11.12.13:288][905]LogContentValidation: Display: Validating EnvQuery /Game/FindNearbyShootingSpot.FindNearbyShootingSpot
+[2023.11.24-11.13.07:344][537]Cmd: TRANSACTION UNDO
+[2023.11.24-11.13.07:344][537]LogEditorTransaction: Undo Move Elements
+[2023.11.24-11.14.30:532][750]Cmd: DELETE
+[2023.11.24-11.14.30:533][750]Cmd: ACTOR DELETE
+[2023.11.24-11.14.30:544][750]LogEditorActor: Actor NewBlueprint is referenced by AIController1.
+[2023.11.24-11.14.35:116][750]LogSlate: Window 'Message' being destroyed
+[2023.11.24-11.14.35:123][750]Message dialog closed, result: No, title: Message, text: Actor NewBlueprint is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+AIController1
+[2023.11.24-11.14.35:152][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.11.24-11.14.35:153][750]LogEditorActor: Deleted 0 Actors (0.042 secs)
+[2023.11.24-11.14.50:405][630]LogNavigationDataBuild: Navigation data generation finished in /Game/DefaultMap.
+[2023.11.24-11.14.50:438][632]LogNavigationDataBuild: Navigation data generation finished in /Game/DefaultMap.
+[2023.11.24-11.14.50:479][634]LogNavigationDataBuild: Navigation data generation finished in /Game/DefaultMap.
+[2023.11.24-11.14.50:504][636]LogNavigationDataBuild: Navigation data generation finished in /Game/DefaultMap.
+[2023.11.24-11.14.50:538][638]LogNavigationDataBuild: Navigation data generation finished in /Game/DefaultMap.
+[2023.11.24-11.14.50:579][640]LogNavigationDataBuild: Navigation data generation finished in /Game/DefaultMap.
+[2023.11.24-11.14.50:604][642]LogNavigationDataBuild: Navigation data generation finished in /Game/DefaultMap.
+[2023.11.24-11.14.50:854][657]LogNavigationDataBuild: Navigation data generation finished in /Game/DefaultMap.
+[2023.11.24-11.14.50:955][663]LogNavigationDataBuild: Navigation data generation finished in /Game/DefaultMap.
+[2023.11.24-11.14.51:323][685]LogNavigationDataBuild: Navigation data generation finished in /Game/DefaultMap.
+[2023.11.24-11.15.07:821][660]LogNavigationDataBuild: Navigation data generation finished in /Game/DefaultMap.
+[2023.11.24-11.16.07:261][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DefaultMap" FILE="../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/DefaultMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.24-11.16.07:288][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.11.24-11.16.07:300][162]LogSavePackage: Moving output files for package: /Game/DefaultMap
+[2023.11.24-11.16.07:301][162]LogSavePackage: Moving '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Saved/DefaultMap464D4449462268CEEEB25A91E2B41BB8.tmp' to '../../../../../../Users/aja7/Documents/GitHub/ShootingGallery/Content/DefaultMap.umap'
+[2023.11.24-11.16.07:311][162]LogFileHelpers: No new changes to save!
+[2023.11.24-11.16.07:323][162]AssetCheck: New page: Asset Save: DefaultMap
+[2023.11.24-11.16.07:323][162]LogContentValidation: Display: Validating World /Game/DefaultMap.DefaultMap
+[2023.11.24-11.16.09:737][285]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.24-11.16.09:748][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.24-11.16.09:748][285]PIE: New page: PIE session: DefaultMap (24 Nov 2023, 11:16:09)
+[2023.11.24-11.16.09:751][285]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.11.24-11.16.09:751][285]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.11.24-11.16.09:751][285]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DefaultMap
+[2023.11.24-11.16.09:755][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003985s)
+[2023.11.24-11.16.09:755][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DefaultMap.DefaultMap to /Game/UEDPIE_0_DefaultMap.DefaultMap (0.004044s)
+[2023.11.24-11.16.09:755][285]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.24-11.16.09:755][285]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.24-11.16.09:756][285]LogAIModule: Creating AISystem for world DefaultMap
+[2023.11.24-11.16.09:756][285]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2023.11.24-11.16.09:784][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.11.24-11.16.09:785][285]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.11.24-11.16.09:785][285]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.24-11.16.09:785][285]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.24-11.16.09:785][285]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.24-11.16.09:785][285]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.24-11.16.09:785][285]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.24-11.16.09:785][285]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.24-11.16.09:785][285]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.24-11.16.09:785][285]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.24-11.16.09:785][285]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.24-11.16.09:785][285]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.24-11.16.09:785][285]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.24-11.16.09:788][285]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.24-11.16.09:994][285]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.11.24-11.16.09:995][285]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.24-11.16.09:995][285]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.24-11.16.09:995][285]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.24-11.16.09:996][285]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.11.24-11.16.09:996][285]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.11.24-11.16.09:997][285]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.11.24-11.16.09:997][285]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.11.24-11.16.09:997][285]LogInit: FAudioDevice initialized.
+[2023.11.24-11.16.09:997][285]LogAudio: Display: Audio Device (ID: 2) registered with world 'DefaultMap'.
+[2023.11.24-11.16.10:034][285]LogLinker: Warning: [AssetLog] C:\Users\aja7\Documents\GitHub\ShootingGallery\Content\SkeletonCrew\Skeleton_Crossbowman\SkelCrossbow_C.uasset: Failed to load '/Game/SkeletonCrew/Skeleton_Crossbowman/Animations/Skeleton_Crossbowman_Shot_Montage': Can't find file.
+[2023.11.24-11.16.10:034][285]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/SkeletonCrew/Skeleton_Crossbowman/Animations/Skeleton_Crossbowman_Shot_Montage'
+[2023.11.24-11.16.10:093][285]LogLoad: Game class is 'ShootingGallery_GMB_C'
+[2023.11.24-11.16.10:094][285]LogWorld: Bringing World /Game/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 60) at 2023.11.24-11.16.10
+[2023.11.24-11.16.10:094][285]LogWorld: Bringing up level for play took: 0.000916
+[2023.11.24-11.16.10:097][285]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2023.11.24-11.16.10:113][285]LogOutputDevice: Warning: 
+
+Script Stack (2 frames):
+ShootingGallery_PC_C.ExecuteUbergraph_ShootingGallery_PC
+ShootingGallery_PC_C.ReceiveBeginPlay
+
+[2023.11.24-11.16.10:189][285]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.077 s
+[2023.11.24-11.16.10:189][285]LogOutputDevice: Error: === Handled ensure: ===
+[2023.11.24-11.16.10:189][285]LogOutputDevice: Error: 
+[2023.11.24-11.16.10:189][285]LogOutputDevice: Error: Ensure condition failed: CursorWidget [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\GameViewportClient.cpp] [Line: 1054]
+[2023.11.24-11.16.10:189][285]LogOutputDevice: Error: 
+[2023.11.24-11.16.10:189][285]LogOutputDevice: Error: Stack: 
+[2023.11.24-11.16.10:189][285]LogOutputDevice: Error: [Callstack] 0x00007ffd15e27c92 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.24-11.16.10:189][285]LogOutputDevice: Error: [Callstack] 0x00007ffd16b54d8f UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ffd17583990 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ffd14a4bc07 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ffd14c5d8e7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ffd14c72f31 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ffd14c4934e UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ffd14c72b1f UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ffd14c72f31 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ffd14c72244 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ffd14a4bc07 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ffd14c71837 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ffd155403f4 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ffd1550a066 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ffd16b22fac UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ffd15514fef UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ffd1730cae2 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ffd15e49d11 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ffd17236298 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ffd15e045d5 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ffd10f49918 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ffd10f7ece6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ffd10f4a3c2 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ffd10f9d4aa UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ffd10fa0cb7 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ffd10fa05a1 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ffd1093dcf3 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ffd112caac6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ff7260482f6 UnrealEditor.exe!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ff726060d9c UnrealEditor.exe!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ff726060e8a UnrealEditor.exe!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ff726063c4d UnrealEditor.exe!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ff726075564 UnrealEditor.exe!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ff726078736 UnrealEditor.exe!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ffdbccc7344 KERNEL32.DLL!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: [Callstack] 0x00007ffdbda226b1 ntdll.dll!UnknownFunction []
+[2023.11.24-11.16.10:190][285]LogOutputDevice: Error: 
